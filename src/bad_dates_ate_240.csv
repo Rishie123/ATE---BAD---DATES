@@ -1,0 +1,1585 @@
+Feature,Duration,ATE,Type
+Radial Distance from Sun,10,-0.0724715076307091,IBS_N
+Electronic Box Temperature,10,-1.8789730208007245,IBS_N
+Solar Wind Analyser temperature,10,5.873292805560828,IBS_N
+Out Board Sensor Temperature,10,12.774315512543664,IBS_N
+In Board Sensor Temperature,10,4.119414920287634,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,10,19.09780054218529,IBS_N
+Heater Dutycycle,10,-0.4568791661952545,IBS_N
+Search Coil Magnetometer's Temperature,10,0.1938729912825328,IBS_N
+Solar Array's Angle,10,20.52155689172435,IBS_N
+High Gain Antenna Azimuth,10,-0.26066538251436,IBS_N
+High Gain Antenna elevation,10,-11.381452715099488,IBS_N
+Radial Distance from Sun,20,-0.0565188619061649,IBS_N
+Electronic Box Temperature,20,2.9875448011190566,IBS_N
+Solar Wind Analyser temperature,20,-0.3565222939114059,IBS_N
+Out Board Sensor Temperature,20,-5.579959848081668,IBS_N
+In Board Sensor Temperature,20,-6.868613985061876,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,20,8.630687444653452,IBS_N
+Heater Dutycycle,20,-0.0053315985815727,IBS_N
+Search Coil Magnetometer's Temperature,20,-3.099446070757681,IBS_N
+Solar Array's Angle,20,-23.20672107646582,IBS_N
+High Gain Antenna Azimuth,20,1.9839302413037447,IBS_N
+High Gain Antenna elevation,20,-12.307202912834788,IBS_N
+Radial Distance from Sun,30,-0.0670418740668214,IBS_N
+Electronic Box Temperature,30,-3.988493612433005,IBS_N
+Solar Wind Analyser temperature,30,-0.8973753577114827,IBS_N
+Out Board Sensor Temperature,30,1.091259818786371,IBS_N
+In Board Sensor Temperature,30,8.605971903106516,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,30,6.2034789890488335,IBS_N
+Heater Dutycycle,30,-1.0033984852489033,IBS_N
+Search Coil Magnetometer's Temperature,30,-4.493973462234038,IBS_N
+Solar Array's Angle,30,-27.165876613329768,IBS_N
+High Gain Antenna Azimuth,30,-9.66267252721244,IBS_N
+High Gain Antenna elevation,30,-29.91801207693723,IBS_N
+Radial Distance from Sun,40,-0.0272882760512667,IBS_N
+Electronic Box Temperature,40,-12.16544222995145,IBS_N
+Solar Wind Analyser temperature,40,-1.8856289713487344,IBS_N
+Out Board Sensor Temperature,40,-7.304495240815484,IBS_N
+In Board Sensor Temperature,40,-1.2044048134615102,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,40,0.046354728797554,IBS_N
+Heater Dutycycle,40,-0.5295405960142957,IBS_N
+Search Coil Magnetometer's Temperature,40,-2.4819456485250977,IBS_N
+Solar Array's Angle,40,-12.03379810709049,IBS_N
+High Gain Antenna Azimuth,40,-15.579239472953056,IBS_N
+High Gain Antenna elevation,40,-24.457191675854958,IBS_N
+Radial Distance from Sun,50,-0.0497154010872027,IBS_N
+Electronic Box Temperature,50,-2.657636148830337,IBS_N
+Solar Wind Analyser temperature,50,-3.4634815438294275,IBS_N
+Out Board Sensor Temperature,50,-2.4337364775431136,IBS_N
+In Board Sensor Temperature,50,-4.296105753967049,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,50,13.021978959711216,IBS_N
+Heater Dutycycle,50,-0.5886870386571076,IBS_N
+Search Coil Magnetometer's Temperature,50,-5.1763421535316185,IBS_N
+Solar Array's Angle,50,11.072669283227794,IBS_N
+High Gain Antenna Azimuth,50,-4.975862107429034,IBS_N
+High Gain Antenna elevation,50,-6.022344583797764,IBS_N
+Radial Distance from Sun,60,-0.0239851007131004,IBS_N
+Electronic Box Temperature,60,6.766646448524691,IBS_N
+Solar Wind Analyser temperature,60,-1.0757136042250794,IBS_N
+Out Board Sensor Temperature,60,-9.029695936412018,IBS_N
+In Board Sensor Temperature,60,9.700024077177927,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,60,12.221868691510416,IBS_N
+Heater Dutycycle,60,-0.2308063805799335,IBS_N
+Search Coil Magnetometer's Temperature,60,-3.556059858004132,IBS_N
+Solar Array's Angle,60,25.99297992818468,IBS_N
+High Gain Antenna Azimuth,60,-7.356386441389749,IBS_N
+High Gain Antenna elevation,60,9.153582790971274,IBS_N
+Radial Distance from Sun,70,0.0341656296167916,IBS_N
+Electronic Box Temperature,70,4.964216509352453,IBS_N
+Solar Wind Analyser temperature,70,-2.7159609268430405,IBS_N
+Out Board Sensor Temperature,70,8.282412413359628,IBS_N
+In Board Sensor Temperature,70,36.57941106228204,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,70,14.911215705056048,IBS_N
+Heater Dutycycle,70,-0.9419652419746176,IBS_N
+Search Coil Magnetometer's Temperature,70,-7.227838550818222,IBS_N
+Solar Array's Angle,70,21.602457696114147,IBS_N
+High Gain Antenna Azimuth,70,-6.787249921059582,IBS_N
+High Gain Antenna elevation,70,-4.315093092002635,IBS_N
+Radial Distance from Sun,80,-0.0213366466232638,IBS_N
+Electronic Box Temperature,80,7.246183527946373,IBS_N
+Solar Wind Analyser temperature,80,-0.5841148170059738,IBS_N
+Out Board Sensor Temperature,80,0.576667424639436,IBS_N
+In Board Sensor Temperature,80,22.530667977679453,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,80,40.15699611977608,IBS_N
+Heater Dutycycle,80,-0.0876784508835205,IBS_N
+Search Coil Magnetometer's Temperature,80,-5.426628377700447,IBS_N
+Solar Array's Angle,80,37.27751038733542,IBS_N
+High Gain Antenna Azimuth,80,-2.861631857577568,IBS_N
+High Gain Antenna elevation,80,18.553752114936188,IBS_N
+Radial Distance from Sun,90,-0.0153558405593979,IBS_N
+Electronic Box Temperature,90,9.227142822458555,IBS_N
+Solar Wind Analyser temperature,90,0.8470890853098084,IBS_N
+Out Board Sensor Temperature,90,8.203366164011241,IBS_N
+In Board Sensor Temperature,90,2.8127455388329747,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,90,20.845913630563963,IBS_N
+Heater Dutycycle,90,-0.0444193317272224,IBS_N
+Search Coil Magnetometer's Temperature,90,-3.038083240363671,IBS_N
+Solar Array's Angle,90,38.25072375250912,IBS_N
+High Gain Antenna Azimuth,90,0.4926846342110258,IBS_N
+High Gain Antenna elevation,90,16.26875934346431,IBS_N
+Radial Distance from Sun,100,-0.0167324707232058,IBS_N
+Electronic Box Temperature,100,1.3424426499329356,IBS_N
+Solar Wind Analyser temperature,100,-0.4007108242127977,IBS_N
+Out Board Sensor Temperature,100,20.88247495665664,IBS_N
+In Board Sensor Temperature,100,-28.1015187262122,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,100,44.66727720969516,IBS_N
+Heater Dutycycle,100,-0.2385690616909473,IBS_N
+Search Coil Magnetometer's Temperature,100,-1.2484225865432017,IBS_N
+Solar Array's Angle,100,13.258249085536605,IBS_N
+High Gain Antenna Azimuth,100,-4.424574864809605,IBS_N
+High Gain Antenna elevation,100,11.005461463240442,IBS_N
+Radial Distance from Sun,110,-0.0400511417854331,IBS_N
+Electronic Box Temperature,110,1.751495427941948,IBS_N
+Solar Wind Analyser temperature,110,-1.049166061550457,IBS_N
+Out Board Sensor Temperature,110,30.9194527045414,IBS_N
+In Board Sensor Temperature,110,8.100298112847454,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,110,13.342709025890375,IBS_N
+Heater Dutycycle,110,-0.2781178173122539,IBS_N
+Search Coil Magnetometer's Temperature,110,0.3327222486748754,IBS_N
+Solar Array's Angle,110,83.53247309794307,IBS_N
+High Gain Antenna Azimuth,110,7.046445504919394,IBS_N
+High Gain Antenna elevation,110,-0.0158274246744648,IBS_N
+Radial Distance from Sun,120,-0.0628139179888029,IBS_N
+Electronic Box Temperature,120,8.969491858913502,IBS_N
+Solar Wind Analyser temperature,120,1.7298504281228166,IBS_N
+Out Board Sensor Temperature,120,5.786354636634642,IBS_N
+In Board Sensor Temperature,120,-7.24023178766241,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,120,19.45236504842695,IBS_N
+Heater Dutycycle,120,-0.3244650086221128,IBS_N
+Search Coil Magnetometer's Temperature,120,0.7073251381517174,IBS_N
+Solar Array's Angle,120,41.89286366760143,IBS_N
+High Gain Antenna Azimuth,120,-4.307756945460668,IBS_N
+High Gain Antenna elevation,120,10.902604746225542,IBS_N
+Radial Distance from Sun,130,-0.0642247285739226,IBS_N
+Electronic Box Temperature,130,24.66652261642343,IBS_N
+Solar Wind Analyser temperature,130,0.8764042843463362,IBS_N
+Out Board Sensor Temperature,130,-6.188072167476147,IBS_N
+In Board Sensor Temperature,130,10.662432140900354,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,130,-5.230370486056129,IBS_N
+Heater Dutycycle,130,0.379201667746772,IBS_N
+Search Coil Magnetometer's Temperature,130,-4.702313055643044,IBS_N
+Solar Array's Angle,130,23.923070777984424,IBS_N
+High Gain Antenna Azimuth,130,18.837007717040013,IBS_N
+High Gain Antenna elevation,130,16.901078993039544,IBS_N
+Radial Distance from Sun,140,-0.0864664490963209,IBS_N
+Electronic Box Temperature,140,4.803215463542264,IBS_N
+Solar Wind Analyser temperature,140,-1.609731163777235,IBS_N
+Out Board Sensor Temperature,140,11.217377536189916,IBS_N
+In Board Sensor Temperature,140,18.82181118599347,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,140,14.15330096478367,IBS_N
+Heater Dutycycle,140,-0.4508314265113835,IBS_N
+Search Coil Magnetometer's Temperature,140,-5.835558938887164,IBS_N
+Solar Array's Angle,140,34.592857910645854,IBS_N
+High Gain Antenna Azimuth,140,1.6766796997481168,IBS_N
+High Gain Antenna elevation,140,0.1975005876373803,IBS_N
+Radial Distance from Sun,150,-0.0972486047714435,IBS_N
+Electronic Box Temperature,150,-0.4927090673156162,IBS_N
+Solar Wind Analyser temperature,150,-2.0024422186867303,IBS_N
+Out Board Sensor Temperature,150,11.279600154064164,IBS_N
+In Board Sensor Temperature,150,2.8108061751552085,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,150,47.534300778380654,IBS_N
+Heater Dutycycle,150,-1.5810969949586056,IBS_N
+Search Coil Magnetometer's Temperature,150,-3.4987729936265097,IBS_N
+Solar Array's Angle,150,30.654062283668097,IBS_N
+High Gain Antenna Azimuth,150,9.507280417601796,IBS_N
+High Gain Antenna elevation,150,7.441228281735273,IBS_N
+Radial Distance from Sun,160,-0.1061819365348015,IBS_N
+Electronic Box Temperature,160,2.551040466886887,IBS_N
+Solar Wind Analyser temperature,160,-0.4011653352977038,IBS_N
+Out Board Sensor Temperature,160,4.893391824547839,IBS_N
+In Board Sensor Temperature,160,3.53956596447662,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,160,28.953192860001,IBS_N
+Heater Dutycycle,160,-0.795150597774796,IBS_N
+Search Coil Magnetometer's Temperature,160,-3.586017128493086,IBS_N
+Solar Array's Angle,160,16.04406429578781,IBS_N
+High Gain Antenna Azimuth,160,14.73782141122417,IBS_N
+High Gain Antenna elevation,160,-6.566272320931257,IBS_N
+Radial Distance from Sun,170,-0.1140147409276527,IBS_N
+Electronic Box Temperature,170,-3.073901962530822,IBS_N
+Solar Wind Analyser temperature,170,-2.4442108416368518,IBS_N
+Out Board Sensor Temperature,170,2.114587290669106,IBS_N
+In Board Sensor Temperature,170,6.344827136938589,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,170,7.9813839250091325,IBS_N
+Heater Dutycycle,170,-0.8157449661753167,IBS_N
+Search Coil Magnetometer's Temperature,170,-2.986066184737139,IBS_N
+Solar Array's Angle,170,2.018255766522201,IBS_N
+High Gain Antenna Azimuth,170,23.63979746406077,IBS_N
+High Gain Antenna elevation,170,-7.803250169334107,IBS_N
+Radial Distance from Sun,180,-0.1167141208586443,IBS_N
+Electronic Box Temperature,180,-11.280282275394775,IBS_N
+Solar Wind Analyser temperature,180,-1.5936637579513298,IBS_N
+Out Board Sensor Temperature,180,6.484528017453218,IBS_N
+In Board Sensor Temperature,180,10.199807261079345,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,180,-1.028020293782845,IBS_N
+Heater Dutycycle,180,-0.4241955771829216,IBS_N
+Search Coil Magnetometer's Temperature,180,-1.2883250926780292,IBS_N
+Solar Array's Angle,180,11.015354526347824,IBS_N
+High Gain Antenna Azimuth,180,7.893794795065653,IBS_N
+High Gain Antenna elevation,180,-5.504578478352944,IBS_N
+Radial Distance from Sun,190,-0.1025880712348567,IBS_N
+Electronic Box Temperature,190,2.8252358538629805,IBS_N
+Solar Wind Analyser temperature,190,0.2781744930404332,IBS_N
+Out Board Sensor Temperature,190,4.382705021729166,IBS_N
+In Board Sensor Temperature,190,0.8261209817519164,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,190,29.354538699812466,IBS_N
+Heater Dutycycle,190,0.1443932982639788,IBS_N
+Search Coil Magnetometer's Temperature,190,-2.6755360791228897,IBS_N
+Solar Array's Angle,190,-4.777391366389985,IBS_N
+High Gain Antenna Azimuth,190,18.118281830592515,IBS_N
+High Gain Antenna elevation,190,2.928773036087673,IBS_N
+Radial Distance from Sun,200,-0.0956415211527706,IBS_N
+Electronic Box Temperature,200,0.4012173441082349,IBS_N
+Solar Wind Analyser temperature,200,-0.5371373771166496,IBS_N
+Out Board Sensor Temperature,200,8.433997687219158,IBS_N
+In Board Sensor Temperature,200,11.931421718542806,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,200,19.123616301366027,IBS_N
+Heater Dutycycle,200,0.1014652787554369,IBS_N
+Search Coil Magnetometer's Temperature,200,-2.3594903344833527,IBS_N
+Solar Array's Angle,200,7.532916826987874,IBS_N
+High Gain Antenna Azimuth,200,6.415726742431188,IBS_N
+High Gain Antenna elevation,200,-5.774590887887444,IBS_N
+Radial Distance from Sun,210,-0.1027861359548596,IBS_N
+Electronic Box Temperature,210,-0.5188307645008804,IBS_N
+Solar Wind Analyser temperature,210,-1.4436821693492286,IBS_N
+Out Board Sensor Temperature,210,15.947040347606084,IBS_N
+In Board Sensor Temperature,210,-3.532758845901689,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,210,0.1990055576723292,IBS_N
+Heater Dutycycle,210,-0.0808376187889758,IBS_N
+Search Coil Magnetometer's Temperature,210,2.057696583419701,IBS_N
+Solar Array's Angle,210,8.060635110310962,IBS_N
+High Gain Antenna Azimuth,210,2.5179097623027262,IBS_N
+High Gain Antenna elevation,210,-22.57500786044004,IBS_N
+Radial Distance from Sun,220,-0.1009804560692582,IBS_N
+Electronic Box Temperature,220,-11.377787909965674,IBS_N
+Solar Wind Analyser temperature,220,-0.3185069359766399,IBS_N
+Out Board Sensor Temperature,220,6.020618803422224,IBS_N
+In Board Sensor Temperature,220,-19.68154212524477,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,220,-4.094400370572213,IBS_N
+Heater Dutycycle,220,-0.7370786314675477,IBS_N
+Search Coil Magnetometer's Temperature,220,2.53141143943698,IBS_N
+Solar Array's Angle,220,-26.07495869233591,IBS_N
+High Gain Antenna Azimuth,220,22.88992007790836,IBS_N
+High Gain Antenna elevation,220,-20.45228330969392,IBS_N
+Radial Distance from Sun,230,-0.0837858019531623,IBS_N
+Electronic Box Temperature,230,-11.915898889945534,IBS_N
+Solar Wind Analyser temperature,230,0.6308587460554489,IBS_N
+Out Board Sensor Temperature,230,24.71320363694234,IBS_N
+In Board Sensor Temperature,230,-6.072198251215746,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,230,10.053993720048982,IBS_N
+Heater Dutycycle,230,-1.0458536084945365,IBS_N
+Search Coil Magnetometer's Temperature,230,1.8129347306148684,IBS_N
+Solar Array's Angle,230,-14.280851757489714,IBS_N
+High Gain Antenna Azimuth,230,5.916799336855372,IBS_N
+High Gain Antenna elevation,230,-35.06005047153795,IBS_N
+Radial Distance from Sun,240,-0.0765877956690386,IBS_N
+Electronic Box Temperature,240,-9.445011649125846,IBS_N
+Solar Wind Analyser temperature,240,-0.8812249878421609,IBS_N
+Out Board Sensor Temperature,240,30.39430676171313,IBS_N
+In Board Sensor Temperature,240,-19.58032742634264,IBS_N
+Out Board Sensor minus In Board Sensor Temp.,240,-17.28159643497495,IBS_N
+Heater Dutycycle,240,-2.06364539976746,IBS_N
+Search Coil Magnetometer's Temperature,240,-0.1631404572134773,IBS_N
+Solar Array's Angle,240,-5.011025617945235,IBS_N
+High Gain Antenna Azimuth,240,-3.5204743244873216,IBS_N
+High Gain Antenna elevation,240,-36.05542027798875,IBS_N
+Radial Distance from Sun,10,-0.0729989650908792,IBS_R
+Electronic Box Temperature,10,-7.379468551283163,IBS_R
+Solar Wind Analyser temperature,10,-2.560309425793675,IBS_R
+Out Board Sensor Temperature,10,5.970430112353593,IBS_R
+In Board Sensor Temperature,10,-11.431369877872095,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,10,7.654145924529551,IBS_R
+Heater Dutycycle,10,-1.4994514149297855,IBS_R
+Search Coil Magnetometer's Temperature,10,-3.2607438546654266,IBS_R
+Solar Array's Angle,10,-51.39372579790573,IBS_R
+High Gain Antenna Azimuth,10,-3.675300863138812,IBS_R
+High Gain Antenna elevation,10,18.06925327380813,IBS_R
+Radial Distance from Sun,20,-0.1062228546894789,IBS_R
+Electronic Box Temperature,20,-13.519507340904973,IBS_R
+Solar Wind Analyser temperature,20,-0.0977089996628388,IBS_R
+Out Board Sensor Temperature,20,16.473883245687624,IBS_R
+In Board Sensor Temperature,20,19.99224237250831,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,20,15.356346530720336,IBS_R
+Heater Dutycycle,20,-0.6315547650617265,IBS_R
+Search Coil Magnetometer's Temperature,20,-1.5451820171971555,IBS_R
+Solar Array's Angle,20,16.76796116651784,IBS_R
+High Gain Antenna Azimuth,20,4.600224688546828,IBS_R
+High Gain Antenna elevation,20,20.50817302820531,IBS_R
+Radial Distance from Sun,30,-0.0829906556168837,IBS_R
+Electronic Box Temperature,30,-25.93282834265366,IBS_R
+Solar Wind Analyser temperature,30,-1.1196472021978057,IBS_R
+Out Board Sensor Temperature,30,8.259341449948261,IBS_R
+In Board Sensor Temperature,30,-11.523189245371876,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,30,-4.356351644345201,IBS_R
+Heater Dutycycle,30,-1.0591372574074789,IBS_R
+Search Coil Magnetometer's Temperature,30,-2.112712177405865,IBS_R
+Solar Array's Angle,30,-21.9814702039859,IBS_R
+High Gain Antenna Azimuth,30,3.862177855375176,IBS_R
+High Gain Antenna elevation,30,7.273917086274252,IBS_R
+Radial Distance from Sun,40,-0.1103719339772428,IBS_R
+Electronic Box Temperature,40,-10.601427200608232,IBS_R
+Solar Wind Analyser temperature,40,-3.055797472638881,IBS_R
+Out Board Sensor Temperature,40,0.7262317535200619,IBS_R
+In Board Sensor Temperature,40,10.27673001446355,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,40,26.194304305240472,IBS_R
+Heater Dutycycle,40,-0.4209841541260544,IBS_R
+Search Coil Magnetometer's Temperature,40,-4.132626667519152,IBS_R
+Solar Array's Angle,40,-16.890635645919136,IBS_R
+High Gain Antenna Azimuth,40,10.67378840613593,IBS_R
+High Gain Antenna elevation,40,15.31905015632967,IBS_R
+Radial Distance from Sun,50,-0.104499543920831,IBS_R
+Electronic Box Temperature,50,-9.48772577504664,IBS_R
+Solar Wind Analyser temperature,50,-1.396833872097447,IBS_R
+Out Board Sensor Temperature,50,12.761558472457134,IBS_R
+In Board Sensor Temperature,50,22.53368643961066,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,50,-1.9667005814976857,IBS_R
+Heater Dutycycle,50,-0.0396276664698363,IBS_R
+Search Coil Magnetometer's Temperature,50,-3.154556944611169,IBS_R
+Solar Array's Angle,50,36.881631563311146,IBS_R
+High Gain Antenna Azimuth,50,3.1024335998822585,IBS_R
+High Gain Antenna elevation,50,13.541212114354517,IBS_R
+Radial Distance from Sun,60,-0.0912413317378379,IBS_R
+Electronic Box Temperature,60,-15.385083356219774,IBS_R
+Solar Wind Analyser temperature,60,0.4007089079896088,IBS_R
+Out Board Sensor Temperature,60,13.1567143243938,IBS_R
+In Board Sensor Temperature,60,13.36442519339929,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,60,-14.903608391455943,IBS_R
+Heater Dutycycle,60,-0.4726057445408594,IBS_R
+Search Coil Magnetometer's Temperature,60,-1.6707549463214468,IBS_R
+Solar Array's Angle,60,-4.727524973861493,IBS_R
+High Gain Antenna Azimuth,60,8.912617258738807,IBS_R
+High Gain Antenna elevation,60,6.209152263212921,IBS_R
+Radial Distance from Sun,70,-0.0785773531390423,IBS_R
+Electronic Box Temperature,70,-1.358818302989074,IBS_R
+Solar Wind Analyser temperature,70,-2.179831521919372,IBS_R
+Out Board Sensor Temperature,70,10.840025532238842,IBS_R
+In Board Sensor Temperature,70,7.803699605131476,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,70,8.459735007922097,IBS_R
+Heater Dutycycle,70,-0.3426609231224357,IBS_R
+Search Coil Magnetometer's Temperature,70,-1.3618800389670644,IBS_R
+Solar Array's Angle,70,22.041736013174965,IBS_R
+High Gain Antenna Azimuth,70,0.5097243538850975,IBS_R
+High Gain Antenna elevation,70,18.671497711891256,IBS_R
+Radial Distance from Sun,80,-0.0384275726662568,IBS_R
+Electronic Box Temperature,80,-5.28287826094688,IBS_R
+Solar Wind Analyser temperature,80,-0.2320598749357502,IBS_R
+Out Board Sensor Temperature,80,8.87696175933159,IBS_R
+In Board Sensor Temperature,80,14.30329967395561,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,80,2.068959977485228,IBS_R
+Heater Dutycycle,80,-0.5121275029686261,IBS_R
+Search Coil Magnetometer's Temperature,80,-2.83875384773068,IBS_R
+Solar Array's Angle,80,9.977197742696896,IBS_R
+High Gain Antenna Azimuth,80,1.131746476429892,IBS_R
+High Gain Antenna elevation,80,8.01022010092557,IBS_R
+Radial Distance from Sun,90,-0.0008825830149618,IBS_R
+Electronic Box Temperature,90,-4.057125953197184,IBS_R
+Solar Wind Analyser temperature,90,-4.6990290796864205,IBS_R
+Out Board Sensor Temperature,90,1.364939906875245,IBS_R
+In Board Sensor Temperature,90,29.37342038407161,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,90,-4.676275162833978,IBS_R
+Heater Dutycycle,90,-0.7956049111594397,IBS_R
+Search Coil Magnetometer's Temperature,90,-3.879739032251256,IBS_R
+Solar Array's Angle,90,11.41213066599772,IBS_R
+High Gain Antenna Azimuth,90,5.18976881801211,IBS_R
+High Gain Antenna elevation,90,9.939969528857832,IBS_R
+Radial Distance from Sun,100,0.0042399760268912,IBS_R
+Electronic Box Temperature,100,-20.70024449198185,IBS_R
+Solar Wind Analyser temperature,100,-1.5098247891951926,IBS_R
+Out Board Sensor Temperature,100,12.309931529010152,IBS_R
+In Board Sensor Temperature,100,8.769807748770038,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,100,4.421006530956017,IBS_R
+Heater Dutycycle,100,-1.1558986670872198,IBS_R
+Search Coil Magnetometer's Temperature,100,-2.881547361933921,IBS_R
+Solar Array's Angle,100,21.765790631087395,IBS_R
+High Gain Antenna Azimuth,100,-6.0609610120868735,IBS_R
+High Gain Antenna elevation,100,3.837390940573059,IBS_R
+Radial Distance from Sun,110,0.0071957483498086,IBS_R
+Electronic Box Temperature,110,-7.547098072105746,IBS_R
+Solar Wind Analyser temperature,110,-1.925400029995242,IBS_R
+Out Board Sensor Temperature,110,5.2725453343905775,IBS_R
+In Board Sensor Temperature,110,9.492012095634374,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,110,19.45571853461993,IBS_R
+Heater Dutycycle,110,-0.928158446399334,IBS_R
+Search Coil Magnetometer's Temperature,110,-2.9003876707330005,IBS_R
+Solar Array's Angle,110,10.408292607678886,IBS_R
+High Gain Antenna Azimuth,110,14.139304179337806,IBS_R
+High Gain Antenna elevation,110,5.641298008806524,IBS_R
+Radial Distance from Sun,120,0.0005385708080027,IBS_R
+Electronic Box Temperature,120,3.084839226029178,IBS_R
+Solar Wind Analyser temperature,120,0.6328297398016284,IBS_R
+Out Board Sensor Temperature,120,16.4154176091021,IBS_R
+In Board Sensor Temperature,120,25.66455075358924,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,120,2.3147634573197995,IBS_R
+Heater Dutycycle,120,0.0065158733012338,IBS_R
+Search Coil Magnetometer's Temperature,120,-3.363064869226079,IBS_R
+Solar Array's Angle,120,8.745957472249861,IBS_R
+High Gain Antenna Azimuth,120,6.919383069437484,IBS_R
+High Gain Antenna elevation,120,9.82166806981599,IBS_R
+Radial Distance from Sun,130,0.0113805643480281,IBS_R
+Electronic Box Temperature,130,4.855030294017033,IBS_R
+Solar Wind Analyser temperature,130,-0.1694807359245461,IBS_R
+Out Board Sensor Temperature,130,8.413982536477295,IBS_R
+In Board Sensor Temperature,130,30.004480110468872,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,130,6.257353907262876,IBS_R
+Heater Dutycycle,130,0.0294640052061361,IBS_R
+Search Coil Magnetometer's Temperature,130,-2.294439225769923,IBS_R
+Solar Array's Angle,130,22.62306535677698,IBS_R
+High Gain Antenna Azimuth,130,-6.17136685985251,IBS_R
+High Gain Antenna elevation,130,16.879179324133478,IBS_R
+Radial Distance from Sun,140,0.0149915632145733,IBS_R
+Electronic Box Temperature,140,10.704562156647604,IBS_R
+Solar Wind Analyser temperature,140,2.283450781816589,IBS_R
+Out Board Sensor Temperature,140,13.390306604574231,IBS_R
+In Board Sensor Temperature,140,27.969050285300167,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,140,-1.0883602016950156,IBS_R
+Heater Dutycycle,140,0.3058177931386265,IBS_R
+Search Coil Magnetometer's Temperature,140,-1.6649792575550293,IBS_R
+Solar Array's Angle,140,17.691380262587675,IBS_R
+High Gain Antenna Azimuth,140,2.7653142562581623,IBS_R
+High Gain Antenna elevation,140,23.33614216885813,IBS_R
+Radial Distance from Sun,150,0.0209376719755655,IBS_R
+Electronic Box Temperature,150,-3.169645812330501,IBS_R
+Solar Wind Analyser temperature,150,0.672838312787352,IBS_R
+Out Board Sensor Temperature,150,-4.422524494340812,IBS_R
+In Board Sensor Temperature,150,0.0487677263985715,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,150,16.531173278435034,IBS_R
+Heater Dutycycle,150,0.0171710155831002,IBS_R
+Search Coil Magnetometer's Temperature,150,-1.0647791992808602,IBS_R
+Solar Array's Angle,150,26.43017376738147,IBS_R
+High Gain Antenna Azimuth,150,10.614876345025737,IBS_R
+High Gain Antenna elevation,150,27.881176399836335,IBS_R
+Radial Distance from Sun,160,0.0232397691239996,IBS_R
+Electronic Box Temperature,160,-1.4007480780770267,IBS_R
+Solar Wind Analyser temperature,160,2.232467374501776,IBS_R
+Out Board Sensor Temperature,160,1.305270703116666,IBS_R
+In Board Sensor Temperature,160,4.77249453746517,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,160,6.1947706490776735,IBS_R
+Heater Dutycycle,160,0.3443193206926369,IBS_R
+Search Coil Magnetometer's Temperature,160,-1.0176515373206512,IBS_R
+Solar Array's Angle,160,15.531364063706429,IBS_R
+High Gain Antenna Azimuth,160,8.621489307175917,IBS_R
+High Gain Antenna elevation,160,25.251774887364217,IBS_R
+Radial Distance from Sun,170,0.0346286327898652,IBS_R
+Electronic Box Temperature,170,-4.372123774587802,IBS_R
+Solar Wind Analyser temperature,170,-0.0022678471901272,IBS_R
+Out Board Sensor Temperature,170,-5.143629077880771,IBS_R
+In Board Sensor Temperature,170,-1.232385918875372,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,170,17.0489003499701,IBS_R
+Heater Dutycycle,170,0.7248256413863633,IBS_R
+Search Coil Magnetometer's Temperature,170,-3.1571284557702057,IBS_R
+Solar Array's Angle,170,24.15132276421602,IBS_R
+High Gain Antenna Azimuth,170,9.29658044282281,IBS_R
+High Gain Antenna elevation,170,31.41977644592925,IBS_R
+Radial Distance from Sun,180,0.0413897501758524,IBS_R
+Electronic Box Temperature,180,13.510489966023489,IBS_R
+Solar Wind Analyser temperature,180,-0.7746899154364253,IBS_R
+Out Board Sensor Temperature,180,-4.02210640742625,IBS_R
+In Board Sensor Temperature,180,1.9251653064873449,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,180,-1.7258784026627318,IBS_R
+Heater Dutycycle,180,0.8528947105862955,IBS_R
+Search Coil Magnetometer's Temperature,180,1.736464741236884,IBS_R
+Solar Array's Angle,180,22.70991458118019,IBS_R
+High Gain Antenna Azimuth,180,16.386475104460914,IBS_R
+High Gain Antenna elevation,180,40.86004494629845,IBS_R
+Radial Distance from Sun,190,0.0420005881645933,IBS_R
+Electronic Box Temperature,190,3.5154550492557437,IBS_R
+Solar Wind Analyser temperature,190,1.0768866985903505,IBS_R
+Out Board Sensor Temperature,190,-3.4599338275807137,IBS_R
+In Board Sensor Temperature,190,13.612556467026366,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,190,35.96923018083854,IBS_R
+Heater Dutycycle,190,0.4675830338015087,IBS_R
+Search Coil Magnetometer's Temperature,190,-1.4068485984309054,IBS_R
+Solar Array's Angle,190,1.7149389972659397,IBS_R
+High Gain Antenna Azimuth,190,13.19670053165507,IBS_R
+High Gain Antenna elevation,190,40.09078295827683,IBS_R
+Radial Distance from Sun,200,0.0446940787531302,IBS_R
+Electronic Box Temperature,200,1.1372607909553472,IBS_R
+Solar Wind Analyser temperature,200,-2.370111741878105,IBS_R
+Out Board Sensor Temperature,200,-9.95107770519076,IBS_R
+In Board Sensor Temperature,200,7.915853148523815,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,200,22.907367439236296,IBS_R
+Heater Dutycycle,200,0.1114753583695915,IBS_R
+Search Coil Magnetometer's Temperature,200,-3.46321034613996,IBS_R
+Solar Array's Angle,200,-22.796178311370102,IBS_R
+High Gain Antenna Azimuth,200,14.124970081175464,IBS_R
+High Gain Antenna elevation,200,30.864770365719,IBS_R
+Radial Distance from Sun,210,0.0387711770526841,IBS_R
+Electronic Box Temperature,210,-8.924058419105583,IBS_R
+Solar Wind Analyser temperature,210,-3.382031106941201,IBS_R
+Out Board Sensor Temperature,210,-15.324489258955085,IBS_R
+In Board Sensor Temperature,210,7.645398749435968,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,210,12.692102914025249,IBS_R
+Heater Dutycycle,210,0.4289195386281303,IBS_R
+Search Coil Magnetometer's Temperature,210,0.5881693070695496,IBS_R
+Solar Array's Angle,210,-16.864694390758658,IBS_R
+High Gain Antenna Azimuth,210,11.108576848399824,IBS_R
+High Gain Antenna elevation,210,27.049395907654738,IBS_R
+Radial Distance from Sun,220,0.0351240061500781,IBS_R
+Electronic Box Temperature,220,9.80606530344586,IBS_R
+Solar Wind Analyser temperature,220,-1.0537071710149166,IBS_R
+Out Board Sensor Temperature,220,-12.11148544506304,IBS_R
+In Board Sensor Temperature,220,13.23489353273459,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,220,13.577562107420723,IBS_R
+Heater Dutycycle,220,0.0386959408986542,IBS_R
+Search Coil Magnetometer's Temperature,220,-4.818937043065639,IBS_R
+Solar Array's Angle,220,4.942726083328768,IBS_R
+High Gain Antenna Azimuth,220,0.980782963852316,IBS_R
+High Gain Antenna elevation,220,23.268962811864288,IBS_R
+Radial Distance from Sun,230,0.0364040357375618,IBS_R
+Electronic Box Temperature,230,13.523200860538582,IBS_R
+Solar Wind Analyser temperature,230,-0.3881200553694425,IBS_R
+Out Board Sensor Temperature,230,-17.10962022251556,IBS_R
+In Board Sensor Temperature,230,11.2952947203529,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,230,0.8550453730008901,IBS_R
+Heater Dutycycle,230,0.7938654179591618,IBS_R
+Search Coil Magnetometer's Temperature,230,-2.108116987832441,IBS_R
+Solar Array's Angle,230,10.705597714664188,IBS_R
+High Gain Antenna Azimuth,230,10.70327042521003,IBS_R
+High Gain Antenna elevation,230,28.600520323778607,IBS_R
+Radial Distance from Sun,240,0.0286168102792862,IBS_R
+Electronic Box Temperature,240,9.965272405863209,IBS_R
+Solar Wind Analyser temperature,240,1.8744469490836104,IBS_R
+Out Board Sensor Temperature,240,-13.86326812992629,IBS_R
+In Board Sensor Temperature,240,19.08699327753155,IBS_R
+Out Board Sensor minus In Board Sensor Temp.,240,-1.686666434457737,IBS_R
+Heater Dutycycle,240,0.8895286104956465,IBS_R
+Search Coil Magnetometer's Temperature,240,-0.8886767609882331,IBS_R
+Solar Array's Angle,240,-7.580282213175566,IBS_R
+High Gain Antenna Azimuth,240,8.948851668743565,IBS_R
+High Gain Antenna elevation,240,27.16436080200747,IBS_R
+Radial Distance from Sun,10,-0.0410805137994305,IBS_T
+Electronic Box Temperature,10,4.290853923278324,IBS_T
+Solar Wind Analyser temperature,10,-1.7087946751741052,IBS_T
+Out Board Sensor Temperature,10,-0.1045124152227658,IBS_T
+In Board Sensor Temperature,10,-22.241788823233158,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,10,-4.468741820274736,IBS_T
+Heater Dutycycle,10,1.497199179784498,IBS_T
+Search Coil Magnetometer's Temperature,10,-1.182402075083025,IBS_T
+Solar Array's Angle,10,79.56941346654838,IBS_T
+High Gain Antenna Azimuth,10,-15.907525560869058,IBS_T
+High Gain Antenna elevation,10,-15.584702428208676,IBS_T
+Radial Distance from Sun,20,-0.0561301304248571,IBS_T
+Electronic Box Temperature,20,1.6657689361517312,IBS_T
+Solar Wind Analyser temperature,20,-1.7493665816726742,IBS_T
+Out Board Sensor Temperature,20,1.7897684258431212,IBS_T
+In Board Sensor Temperature,20,-1.1498173747673626,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,20,-27.32524757415095,IBS_T
+Heater Dutycycle,20,0.5757569582017411,IBS_T
+Search Coil Magnetometer's Temperature,20,-1.4111887113053814,IBS_T
+Solar Array's Angle,20,25.46364899817612,IBS_T
+High Gain Antenna Azimuth,20,16.46843253281483,IBS_T
+High Gain Antenna elevation,20,-11.867325646854912,IBS_T
+Radial Distance from Sun,30,0.01334022672742,IBS_T
+Electronic Box Temperature,30,-24.641080758972805,IBS_T
+Solar Wind Analyser temperature,30,0.7056780636826876,IBS_T
+Out Board Sensor Temperature,30,23.972749971763097,IBS_T
+In Board Sensor Temperature,30,21.25095978397859,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,30,-14.523451352090392,IBS_T
+Heater Dutycycle,30,-1.8791381740368336,IBS_T
+Search Coil Magnetometer's Temperature,30,-2.579602713454909,IBS_T
+Solar Array's Angle,30,19.857761623131356,IBS_T
+High Gain Antenna Azimuth,30,-0.7765371287953838,IBS_T
+High Gain Antenna elevation,30,-30.698637435197845,IBS_T
+Radial Distance from Sun,40,0.0067264073571849,IBS_T
+Electronic Box Temperature,40,-17.00487395829343,IBS_T
+Solar Wind Analyser temperature,40,1.2313943225689383,IBS_T
+Out Board Sensor Temperature,40,6.740647117269432,IBS_T
+In Board Sensor Temperature,40,3.5892058043361112,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,40,-18.10730120251336,IBS_T
+Heater Dutycycle,40,-1.0017200096785843,IBS_T
+Search Coil Magnetometer's Temperature,40,-2.056227493320724,IBS_T
+Solar Array's Angle,40,26.680878617944504,IBS_T
+High Gain Antenna Azimuth,40,8.77230696308643,IBS_T
+High Gain Antenna elevation,40,-45.464160581197895,IBS_T
+Radial Distance from Sun,50,-0.0066190968234836,IBS_T
+Electronic Box Temperature,50,-14.350811496241368,IBS_T
+Solar Wind Analyser temperature,50,-2.6232503272184955,IBS_T
+Out Board Sensor Temperature,50,6.556887301412477,IBS_T
+In Board Sensor Temperature,50,9.997953900897746,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,50,-0.3547703817924331,IBS_T
+Heater Dutycycle,50,-1.466631451678358,IBS_T
+Search Coil Magnetometer's Temperature,50,-0.8684167241452833,IBS_T
+Solar Array's Angle,50,25.16952207931745,IBS_T
+High Gain Antenna Azimuth,50,-8.019414873432574,IBS_T
+High Gain Antenna elevation,50,-33.94094582418052,IBS_T
+Radial Distance from Sun,60,0.0165838728768359,IBS_T
+Electronic Box Temperature,60,4.809135134071798,IBS_T
+Solar Wind Analyser temperature,60,-3.556120050702363,IBS_T
+Out Board Sensor Temperature,60,1.7844884567091823,IBS_T
+In Board Sensor Temperature,60,9.541190419152263,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,60,5.123841561053416,IBS_T
+Heater Dutycycle,60,-0.9598835431057824,IBS_T
+Search Coil Magnetometer's Temperature,60,-2.173246691202076,IBS_T
+Solar Array's Angle,60,16.356115299037793,IBS_T
+High Gain Antenna Azimuth,60,-3.8649861951077455,IBS_T
+High Gain Antenna elevation,60,-27.43176045053321,IBS_T
+Radial Distance from Sun,70,0.0282677599984858,IBS_T
+Electronic Box Temperature,70,-9.847287333758208,IBS_T
+Solar Wind Analyser temperature,70,-4.141697206415448,IBS_T
+Out Board Sensor Temperature,70,36.22412805230212,IBS_T
+In Board Sensor Temperature,70,31.45917445744804,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,70,-4.645504709372015,IBS_T
+Heater Dutycycle,70,-2.275611186279967,IBS_T
+Search Coil Magnetometer's Temperature,70,-1.3176849015989318,IBS_T
+Solar Array's Angle,70,11.899949100117936,IBS_T
+High Gain Antenna Azimuth,70,-3.9142631161396864,IBS_T
+High Gain Antenna elevation,70,-73.53757725768925,IBS_T
+Radial Distance from Sun,80,0.0186987746127675,IBS_T
+Electronic Box Temperature,80,5.312056335598989,IBS_T
+Solar Wind Analyser temperature,80,-2.53622593814262,IBS_T
+Out Board Sensor Temperature,80,32.047552921768514,IBS_T
+In Board Sensor Temperature,80,20.159478038072816,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,80,-18.748652944843613,IBS_T
+Heater Dutycycle,80,-1.4140105372989733,IBS_T
+Search Coil Magnetometer's Temperature,80,-5.118406719247007,IBS_T
+Solar Array's Angle,80,-4.928528044511912,IBS_T
+High Gain Antenna Azimuth,80,-24.513889989003356,IBS_T
+High Gain Antenna elevation,80,-52.359712525244525,IBS_T
+Radial Distance from Sun,90,0.0476188108638043,IBS_T
+Electronic Box Temperature,90,-5.458060219392651,IBS_T
+Solar Wind Analyser temperature,90,-7.4993730089084,IBS_T
+Out Board Sensor Temperature,90,23.72555748178946,IBS_T
+In Board Sensor Temperature,90,5.659413057086659,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,90,1.7719603931125882,IBS_T
+Heater Dutycycle,90,-1.96549383020593,IBS_T
+Search Coil Magnetometer's Temperature,90,-0.1124744971361026,IBS_T
+Solar Array's Angle,90,-36.06934502501386,IBS_T
+High Gain Antenna Azimuth,90,-5.687614185701477,IBS_T
+High Gain Antenna elevation,90,-65.58278780118654,IBS_T
+Radial Distance from Sun,100,0.0357135585288033,IBS_T
+Electronic Box Temperature,100,15.510200290102537,IBS_T
+Solar Wind Analyser temperature,100,-3.57574461464898,IBS_T
+Out Board Sensor Temperature,100,22.54357784337143,IBS_T
+In Board Sensor Temperature,100,11.264525226195474,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,100,-9.29010204439483,IBS_T
+Heater Dutycycle,100,-1.2139015297413456,IBS_T
+Search Coil Magnetometer's Temperature,100,-0.5716024941970221,IBS_T
+Solar Array's Angle,100,-12.817423480905555,IBS_T
+High Gain Antenna Azimuth,100,-11.98243379851544,IBS_T
+High Gain Antenna elevation,100,-35.42563235097542,IBS_T
+Radial Distance from Sun,110,0.0358674358032796,IBS_T
+Electronic Box Temperature,110,5.190082200659746,IBS_T
+Solar Wind Analyser temperature,110,-3.6329786140295366,IBS_T
+Out Board Sensor Temperature,110,29.60182597933261,IBS_T
+In Board Sensor Temperature,110,20.63458777114819,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,110,-7.921807835033917,IBS_T
+Heater Dutycycle,110,-2.395380294515793,IBS_T
+Search Coil Magnetometer's Temperature,110,-0.3995081771432081,IBS_T
+Solar Array's Angle,110,7.65328706725394,IBS_T
+High Gain Antenna Azimuth,110,-4.800371164687999,IBS_T
+High Gain Antenna elevation,110,-45.67497240741602,IBS_T
+Radial Distance from Sun,120,0.0108879982314607,IBS_T
+Electronic Box Temperature,120,0.3226906595846042,IBS_T
+Solar Wind Analyser temperature,120,0.6923002036027711,IBS_T
+Out Board Sensor Temperature,120,27.52703855658765,IBS_T
+In Board Sensor Temperature,120,-1.5537077149139369,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,120,21.26504433052945,IBS_T
+Heater Dutycycle,120,-2.6746966765715854,IBS_T
+Search Coil Magnetometer's Temperature,120,-1.9376408403627996,IBS_T
+Solar Array's Angle,120,13.497562024016172,IBS_T
+High Gain Antenna Azimuth,120,-7.731162370762847,IBS_T
+High Gain Antenna elevation,120,-47.89876392753976,IBS_T
+Radial Distance from Sun,130,0.0379270942663792,IBS_T
+Electronic Box Temperature,130,1.429211713214754,IBS_T
+Solar Wind Analyser temperature,130,-1.7621310853790753,IBS_T
+Out Board Sensor Temperature,130,19.59338111110891,IBS_T
+In Board Sensor Temperature,130,46.41923439789546,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,130,-4.189955597769691,IBS_T
+Heater Dutycycle,130,-1.5963453261431426,IBS_T
+Search Coil Magnetometer's Temperature,130,-4.617427862670352,IBS_T
+Solar Array's Angle,130,22.242747509162445,IBS_T
+High Gain Antenna Azimuth,130,6.559519252531759,IBS_T
+High Gain Antenna elevation,130,-43.7255220857996,IBS_T
+Radial Distance from Sun,140,0.0693034495524072,IBS_T
+Electronic Box Temperature,140,-17.063962829852517,IBS_T
+Solar Wind Analyser temperature,140,-9.591356503333074,IBS_T
+Out Board Sensor Temperature,140,23.089248246250555,IBS_T
+In Board Sensor Temperature,140,48.27577121296206,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,140,-37.19922246833041,IBS_T
+Heater Dutycycle,140,-0.9969305287748452,IBS_T
+Search Coil Magnetometer's Temperature,140,-4.697429009308928,IBS_T
+Solar Array's Angle,140,70.79721134772149,IBS_T
+High Gain Antenna Azimuth,140,-9.602681518727422,IBS_T
+High Gain Antenna elevation,140,-63.25391206674995,IBS_T
+Radial Distance from Sun,150,0.0687080023649414,IBS_T
+Electronic Box Temperature,150,-28.168170675709607,IBS_T
+Solar Wind Analyser temperature,150,-4.383655039685049,IBS_T
+Out Board Sensor Temperature,150,22.123982462118672,IBS_T
+In Board Sensor Temperature,150,21.897337513294936,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,150,-62.20460386877083,IBS_T
+Heater Dutycycle,150,-1.739857579273538,IBS_T
+Search Coil Magnetometer's Temperature,150,-6.740541482068926,IBS_T
+Solar Array's Angle,150,6.131786630953841,IBS_T
+High Gain Antenna Azimuth,150,-22.615322362866767,IBS_T
+High Gain Antenna elevation,150,-49.572909578261616,IBS_T
+Radial Distance from Sun,160,0.0741436064781906,IBS_T
+Electronic Box Temperature,160,-4.064036984818793,IBS_T
+Solar Wind Analyser temperature,160,-3.71462015911268,IBS_T
+Out Board Sensor Temperature,160,25.4632198221398,IBS_T
+In Board Sensor Temperature,160,47.846002220740615,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,160,-63.70597286726896,IBS_T
+Heater Dutycycle,160,-1.989243520243264,IBS_T
+Search Coil Magnetometer's Temperature,160,-4.285714699670124,IBS_T
+Solar Array's Angle,160,-7.04746424976973,IBS_T
+High Gain Antenna Azimuth,160,7.590358152403607,IBS_T
+High Gain Antenna elevation,160,-66.35525234161673,IBS_T
+Radial Distance from Sun,170,0.0677842832499179,IBS_T
+Electronic Box Temperature,170,-26.557968097591782,IBS_T
+Solar Wind Analyser temperature,170,-3.724792134341707,IBS_T
+Out Board Sensor Temperature,170,19.366477207186986,IBS_T
+In Board Sensor Temperature,170,44.40790660550471,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,170,-35.809781053668445,IBS_T
+Heater Dutycycle,170,-1.1622446622015634,IBS_T
+Search Coil Magnetometer's Temperature,170,-4.282224978556871,IBS_T
+Solar Array's Angle,170,-14.50758605016668,IBS_T
+High Gain Antenna Azimuth,170,-7.047431266210049,IBS_T
+High Gain Antenna elevation,170,-44.28738532972218,IBS_T
+Radial Distance from Sun,180,0.0546975207594668,IBS_T
+Electronic Box Temperature,180,-7.579681711392535,IBS_T
+Solar Wind Analyser temperature,180,0.0621048296803554,IBS_T
+Out Board Sensor Temperature,180,14.324761553682356,IBS_T
+In Board Sensor Temperature,180,43.260746044652265,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,180,-16.301728207215575,IBS_T
+Heater Dutycycle,180,-1.231277747081179,IBS_T
+Search Coil Magnetometer's Temperature,180,-5.19497150054135,IBS_T
+Solar Array's Angle,180,21.33205111317577,IBS_T
+High Gain Antenna Azimuth,180,-15.736539002704628,IBS_T
+High Gain Antenna elevation,180,-24.73682874357643,IBS_T
+Radial Distance from Sun,190,0.0469631011347756,IBS_T
+Electronic Box Temperature,190,20.18936891767272,IBS_T
+Solar Wind Analyser temperature,190,-1.3793022555870784,IBS_T
+Out Board Sensor Temperature,190,14.989656818069523,IBS_T
+In Board Sensor Temperature,190,57.49450849254031,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,190,-19.16625026218312,IBS_T
+Heater Dutycycle,190,-1.7748303956927576,IBS_T
+Search Coil Magnetometer's Temperature,190,-2.340240533337994,IBS_T
+Solar Array's Angle,190,10.114421621260684,IBS_T
+High Gain Antenna Azimuth,190,-10.067062565131456,IBS_T
+High Gain Antenna elevation,190,-23.678072302682928,IBS_T
+Radial Distance from Sun,200,0.0584559150320874,IBS_T
+Electronic Box Temperature,200,10.55163719431083,IBS_T
+Solar Wind Analyser temperature,200,-2.895916832460925,IBS_T
+Out Board Sensor Temperature,200,10.023453326221183,IBS_T
+In Board Sensor Temperature,200,64.4397753151638,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,200,-39.09431659251316,IBS_T
+Heater Dutycycle,200,-0.3417718422217057,IBS_T
+Search Coil Magnetometer's Temperature,200,-3.290473400462812,IBS_T
+Solar Array's Angle,200,22.550474702499933,IBS_T
+High Gain Antenna Azimuth,200,-9.869806535745,IBS_T
+High Gain Antenna elevation,200,-27.320591982904173,IBS_T
+Radial Distance from Sun,210,0.0660953398076072,IBS_T
+Electronic Box Temperature,210,-29.331683189737205,IBS_T
+Solar Wind Analyser temperature,210,-10.506011140240192,IBS_T
+Out Board Sensor Temperature,210,-8.208301565845513,IBS_T
+In Board Sensor Temperature,210,57.091328652483575,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,210,-28.63009010229843,IBS_T
+Heater Dutycycle,210,0.5390052173831072,IBS_T
+Search Coil Magnetometer's Temperature,210,-4.466933840041638,IBS_T
+Solar Array's Angle,210,6.872644364900742,IBS_T
+High Gain Antenna Azimuth,210,1.9955388178766331,IBS_T
+High Gain Antenna elevation,210,-29.110563629374965,IBS_T
+Radial Distance from Sun,220,0.05485041317851,IBS_T
+Electronic Box Temperature,220,2.3560179887688903,IBS_T
+Solar Wind Analyser temperature,220,-5.5676890022956025,IBS_T
+Out Board Sensor Temperature,220,2.519217203315283,IBS_T
+In Board Sensor Temperature,220,46.78909383639972,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,220,-16.130825617548116,IBS_T
+Heater Dutycycle,220,-0.6594502823953854,IBS_T
+Search Coil Magnetometer's Temperature,220,-5.892392012094126,IBS_T
+Solar Array's Angle,220,30.76580045738244,IBS_T
+High Gain Antenna Azimuth,220,8.31753768037975,IBS_T
+High Gain Antenna elevation,220,-17.697263679923775,IBS_T
+Radial Distance from Sun,230,0.0543299646103177,IBS_T
+Electronic Box Temperature,230,-8.886093468990845,IBS_T
+Solar Wind Analyser temperature,230,-3.446276687040934,IBS_T
+Out Board Sensor Temperature,230,26.500803683403586,IBS_T
+In Board Sensor Temperature,230,50.14688473048594,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,230,-12.38618979486872,IBS_T
+Heater Dutycycle,230,-1.8483329065781775,IBS_T
+Search Coil Magnetometer's Temperature,230,-8.275409716343193,IBS_T
+Solar Array's Angle,230,31.603482188828732,IBS_T
+High Gain Antenna Azimuth,230,-15.706259899129307,IBS_T
+High Gain Antenna elevation,230,-37.000892465991086,IBS_T
+Radial Distance from Sun,240,0.0338793569829567,IBS_T
+Electronic Box Temperature,240,-3.6181676992560647,IBS_T
+Solar Wind Analyser temperature,240,1.0756573156612026,IBS_T
+Out Board Sensor Temperature,240,34.311434944051406,IBS_T
+In Board Sensor Temperature,240,44.17869003961736,IBS_T
+Out Board Sensor minus In Board Sensor Temp.,240,-2.8714811156361644,IBS_T
+Heater Dutycycle,240,-1.471135739659447,IBS_T
+Search Coil Magnetometer's Temperature,240,0.1155325482332779,IBS_T
+Solar Array's Angle,240,48.13937858815216,IBS_T
+High Gain Antenna Azimuth,240,-19.61370342258177,IBS_T
+High Gain Antenna elevation,240,-11.544124832721858,IBS_T
+Radial Distance from Sun,10,-0.1130712423023722,OBS_N
+Electronic Box Temperature,10,-7.62809428602175,OBS_N
+Solar Wind Analyser temperature,10,5.54875008200539,OBS_N
+Out Board Sensor Temperature,10,28.06677430540535,OBS_N
+In Board Sensor Temperature,10,13.801698957261282,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,10,14.356832544717632,OBS_N
+Heater Dutycycle,10,-0.6387723460934943,OBS_N
+Search Coil Magnetometer's Temperature,10,1.999884198805922,OBS_N
+Solar Array's Angle,10,-5.452611140887989,OBS_N
+High Gain Antenna Azimuth,10,-10.627159152033515,OBS_N
+High Gain Antenna elevation,10,-6.980117122359151,OBS_N
+Radial Distance from Sun,20,-0.0945120669808243,OBS_N
+Electronic Box Temperature,20,14.841252178374688,OBS_N
+Solar Wind Analyser temperature,20,3.361130526833525,OBS_N
+Out Board Sensor Temperature,20,5.850047940123814,OBS_N
+In Board Sensor Temperature,20,-43.19898445588803,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,20,-25.029435659896897,OBS_N
+Heater Dutycycle,20,-0.5899883533017003,OBS_N
+Search Coil Magnetometer's Temperature,20,2.664662675698596,OBS_N
+Solar Array's Angle,20,-55.257618545721606,OBS_N
+High Gain Antenna Azimuth,20,-5.986836623854866,OBS_N
+High Gain Antenna elevation,20,-4.984387110234237,OBS_N
+Radial Distance from Sun,30,-0.0556535221967949,OBS_N
+Electronic Box Temperature,30,1.0146705298039636,OBS_N
+Solar Wind Analyser temperature,30,-1.8945716191536968,OBS_N
+Out Board Sensor Temperature,30,-0.793870298970538,OBS_N
+In Board Sensor Temperature,30,-14.936715969602323,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,30,-11.837102826146264,OBS_N
+Heater Dutycycle,30,-0.3339861084514551,OBS_N
+Search Coil Magnetometer's Temperature,30,1.51801473251423,OBS_N
+Solar Array's Angle,30,-43.23126511445517,OBS_N
+High Gain Antenna Azimuth,30,-11.978794344048788,OBS_N
+High Gain Antenna elevation,30,-33.03373418846257,OBS_N
+Radial Distance from Sun,40,0.0229980113062574,OBS_N
+Electronic Box Temperature,40,-3.181258508070479,OBS_N
+Solar Wind Analyser temperature,40,-3.699082800929589,OBS_N
+Out Board Sensor Temperature,40,8.418136927256343,OBS_N
+In Board Sensor Temperature,40,16.785541075741218,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,40,-20.70039040619244,OBS_N
+Heater Dutycycle,40,-0.9524405543715792,OBS_N
+Search Coil Magnetometer's Temperature,40,0.1801846840599393,OBS_N
+Solar Array's Angle,40,-8.512080619292789,OBS_N
+High Gain Antenna Azimuth,40,-5.808282739047176,OBS_N
+High Gain Antenna elevation,40,-12.01843880987606,OBS_N
+Radial Distance from Sun,50,0.0078294009378803,OBS_N
+Electronic Box Temperature,50,2.533170241327749,OBS_N
+Solar Wind Analyser temperature,50,-3.0230516163958647,OBS_N
+Out Board Sensor Temperature,50,0.6257376917580841,OBS_N
+In Board Sensor Temperature,50,9.481144241721651,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,50,-0.4853258260539818,OBS_N
+Heater Dutycycle,50,-0.1609172038385689,OBS_N
+Search Coil Magnetometer's Temperature,50,-1.168947822165382,OBS_N
+Solar Array's Angle,50,2.791609723928291,OBS_N
+High Gain Antenna Azimuth,50,-5.00937851644547,OBS_N
+High Gain Antenna elevation,50,-0.1130721061855194,OBS_N
+Radial Distance from Sun,60,0.0471733538710008,OBS_N
+Electronic Box Temperature,60,9.664788753539993,OBS_N
+Solar Wind Analyser temperature,60,-2.2169500214267237,OBS_N
+Out Board Sensor Temperature,60,-5.0513212455233365,OBS_N
+In Board Sensor Temperature,60,22.484017755293788,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,60,-7.017054080925655,OBS_N
+Heater Dutycycle,60,0.2791322777905012,OBS_N
+Search Coil Magnetometer's Temperature,60,-1.6653956235126557,OBS_N
+Solar Array's Angle,60,-5.582937447785151,OBS_N
+High Gain Antenna Azimuth,60,-1.2602624972348146,OBS_N
+High Gain Antenna elevation,60,8.808523017232329,OBS_N
+Radial Distance from Sun,70,0.1190485735702756,OBS_N
+Electronic Box Temperature,70,-2.850689215704383,OBS_N
+Solar Wind Analyser temperature,70,-1.0324657336998704,OBS_N
+Out Board Sensor Temperature,70,4.534433597043379,OBS_N
+In Board Sensor Temperature,70,17.53857770527822,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,70,-6.879757159397365,OBS_N
+Heater Dutycycle,70,-0.2881387320320702,OBS_N
+Search Coil Magnetometer's Temperature,70,-2.061038470230264,OBS_N
+Solar Array's Angle,70,-14.45511470950954,OBS_N
+High Gain Antenna Azimuth,70,-15.29266542710845,OBS_N
+High Gain Antenna elevation,70,0.1358255143969341,OBS_N
+Radial Distance from Sun,80,0.0613439759210721,OBS_N
+Electronic Box Temperature,80,6.708210765921435,OBS_N
+Solar Wind Analyser temperature,80,-1.463330462007382,OBS_N
+Out Board Sensor Temperature,80,0.8036650703636815,OBS_N
+In Board Sensor Temperature,80,1.2472279091284948,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,80,15.859445102984148,OBS_N
+Heater Dutycycle,80,0.3866344678089555,OBS_N
+Search Coil Magnetometer's Temperature,80,-1.8647694126993868,OBS_N
+Solar Array's Angle,80,22.56601780305464,OBS_N
+High Gain Antenna Azimuth,80,8.71857695011425,OBS_N
+High Gain Antenna elevation,80,5.000689524388704,OBS_N
+Radial Distance from Sun,90,0.0798760821698866,OBS_N
+Electronic Box Temperature,90,4.135560563823072,OBS_N
+Solar Wind Analyser temperature,90,2.5252752721354663,OBS_N
+Out Board Sensor Temperature,90,11.882552382554024,OBS_N
+In Board Sensor Temperature,90,-5.312172625599359,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,90,30.787992355762967,OBS_N
+Heater Dutycycle,90,0.8124072771315058,OBS_N
+Search Coil Magnetometer's Temperature,90,2.9475763165572144,OBS_N
+Solar Array's Angle,90,37.98963135588734,OBS_N
+High Gain Antenna Azimuth,90,9.891878284419562,OBS_N
+High Gain Antenna elevation,90,2.107776264096843,OBS_N
+Radial Distance from Sun,100,0.0597396831147861,OBS_N
+Electronic Box Temperature,100,2.967006909775078,OBS_N
+Solar Wind Analyser temperature,100,5.570310597297143,OBS_N
+Out Board Sensor Temperature,100,16.712224197281163,OBS_N
+In Board Sensor Temperature,100,-13.887455962058928,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,100,54.574774436042105,OBS_N
+Heater Dutycycle,100,0.2616050119938625,OBS_N
+Search Coil Magnetometer's Temperature,100,3.0981160372184786,OBS_N
+Solar Array's Angle,100,43.14224174427535,OBS_N
+High Gain Antenna Azimuth,100,9.523896335967155,OBS_N
+High Gain Antenna elevation,100,1.9846474009409305,OBS_N
+Radial Distance from Sun,110,0.0457045488548489,OBS_N
+Electronic Box Temperature,110,22.40277009271518,OBS_N
+Solar Wind Analyser temperature,110,2.878736616316968,OBS_N
+Out Board Sensor Temperature,110,18.55600588049558,OBS_N
+In Board Sensor Temperature,110,-5.393239783522072,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,110,20.63765076684524,OBS_N
+Heater Dutycycle,110,0.8177551085861724,OBS_N
+Search Coil Magnetometer's Temperature,110,0.7226925229620904,OBS_N
+Solar Array's Angle,110,28.99271586587719,OBS_N
+High Gain Antenna Azimuth,110,10.899521119324882,OBS_N
+High Gain Antenna elevation,110,22.376504312823386,OBS_N
+Radial Distance from Sun,120,0.0191683334992207,OBS_N
+Electronic Box Temperature,120,19.58221528350029,OBS_N
+Solar Wind Analyser temperature,120,2.3989999001059683,OBS_N
+Out Board Sensor Temperature,120,15.290283006835796,OBS_N
+In Board Sensor Temperature,120,-32.80903180681108,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,120,38.30510860413701,OBS_N
+Heater Dutycycle,120,0.1833501498245747,OBS_N
+Search Coil Magnetometer's Temperature,120,-0.8895473981259495,OBS_N
+Solar Array's Angle,120,18.932993374938885,OBS_N
+High Gain Antenna Azimuth,120,11.605961543250087,OBS_N
+High Gain Antenna elevation,120,-0.2950739417141493,OBS_N
+Radial Distance from Sun,130,0.0015982912870964,OBS_N
+Electronic Box Temperature,130,13.802986533280457,OBS_N
+Solar Wind Analyser temperature,130,4.14427408440324,OBS_N
+Out Board Sensor Temperature,130,10.912131432128556,OBS_N
+In Board Sensor Temperature,130,-26.357109845695195,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,130,31.75947707493672,OBS_N
+Heater Dutycycle,130,0.502006118811099,OBS_N
+Search Coil Magnetometer's Temperature,130,0.9689758926457912,OBS_N
+Solar Array's Angle,130,43.44237082132992,OBS_N
+High Gain Antenna Azimuth,130,-2.941323425774553,OBS_N
+High Gain Antenna elevation,130,22.87004803194389,OBS_N
+Radial Distance from Sun,140,-0.0144346933873067,OBS_N
+Electronic Box Temperature,140,11.184058318239437,OBS_N
+Solar Wind Analyser temperature,140,0.1488163159799039,OBS_N
+Out Board Sensor Temperature,140,4.18198980275946,OBS_N
+In Board Sensor Temperature,140,-0.5365801333806088,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,140,25.38220141123309,OBS_N
+Heater Dutycycle,140,0.1494732895073104,OBS_N
+Search Coil Magnetometer's Temperature,140,-3.568952737104716,OBS_N
+Solar Array's Angle,140,35.15447582879634,OBS_N
+High Gain Antenna Azimuth,140,12.116815536752473,OBS_N
+High Gain Antenna elevation,140,16.635992789527734,OBS_N
+Radial Distance from Sun,150,-0.0170998846197098,OBS_N
+Electronic Box Temperature,150,3.8239838649810336,OBS_N
+Solar Wind Analyser temperature,150,-0.6483189703437414,OBS_N
+Out Board Sensor Temperature,150,-1.6081289683206248,OBS_N
+In Board Sensor Temperature,150,-26.107766982198243,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,150,18.248567124181488,OBS_N
+Heater Dutycycle,150,-0.2023809474948701,OBS_N
+Search Coil Magnetometer's Temperature,150,-0.5735568604545294,OBS_N
+Solar Array's Angle,150,-25.39026290299473,OBS_N
+High Gain Antenna Azimuth,150,15.84762872351647,OBS_N
+High Gain Antenna elevation,150,6.913100416814711,OBS_N
+Radial Distance from Sun,160,-0.0455298295614385,OBS_N
+Electronic Box Temperature,160,2.963075463909502,OBS_N
+Solar Wind Analyser temperature,160,-0.4042951023411111,OBS_N
+Out Board Sensor Temperature,160,4.690591290138353,OBS_N
+In Board Sensor Temperature,160,6.626022892182205,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,160,17.060163261628926,OBS_N
+Heater Dutycycle,160,-0.7457618022617867,OBS_N
+Search Coil Magnetometer's Temperature,160,-4.880721125482877,OBS_N
+Solar Array's Angle,160,7.278662474610032,OBS_N
+High Gain Antenna Azimuth,160,17.61040886807729,OBS_N
+High Gain Antenna elevation,160,-0.6505850459151094,OBS_N
+Radial Distance from Sun,170,-0.0542794671183843,OBS_N
+Electronic Box Temperature,170,0.6052024808000918,OBS_N
+Solar Wind Analyser temperature,170,-1.3788098662832309,OBS_N
+Out Board Sensor Temperature,170,4.615091829051691,OBS_N
+In Board Sensor Temperature,170,-4.921822488791052,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,170,18.20498717336313,OBS_N
+Heater Dutycycle,170,-0.5313067489452563,OBS_N
+Search Coil Magnetometer's Temperature,170,-3.1920299584950085,OBS_N
+Solar Array's Angle,170,-3.605882892900796,OBS_N
+High Gain Antenna Azimuth,170,13.742272680660898,OBS_N
+High Gain Antenna elevation,170,-6.89510686483894,OBS_N
+Radial Distance from Sun,180,-0.0639110828481205,OBS_N
+Electronic Box Temperature,180,-0.7542001601778133,OBS_N
+Solar Wind Analyser temperature,180,-0.2890039823152428,OBS_N
+Out Board Sensor Temperature,180,-1.865996398778769,OBS_N
+In Board Sensor Temperature,180,2.5154507249638662,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,180,-4.242412253451067,OBS_N
+Heater Dutycycle,180,0.4584934457105821,OBS_N
+Search Coil Magnetometer's Temperature,180,-4.431303916666961,OBS_N
+Solar Array's Angle,180,7.33978657386618,OBS_N
+High Gain Antenna Azimuth,180,26.543809535981048,OBS_N
+High Gain Antenna elevation,180,-6.4417618597665935,OBS_N
+Radial Distance from Sun,190,-0.0676460890972846,OBS_N
+Electronic Box Temperature,190,1.4485453623090985,OBS_N
+Solar Wind Analyser temperature,190,-0.3192951810602957,OBS_N
+Out Board Sensor Temperature,190,-1.4879144552062296,OBS_N
+In Board Sensor Temperature,190,-6.4966974067487575,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,190,28.25877973574041,OBS_N
+Heater Dutycycle,190,1.1853047975665592,OBS_N
+Search Coil Magnetometer's Temperature,190,1.096084431485408,OBS_N
+Solar Array's Angle,190,-27.113539664640047,OBS_N
+High Gain Antenna Azimuth,190,23.348818591001358,OBS_N
+High Gain Antenna elevation,190,7.940605594950687,OBS_N
+Radial Distance from Sun,200,-0.0676521577987096,OBS_N
+Electronic Box Temperature,200,-4.733356450930447,OBS_N
+Solar Wind Analyser temperature,200,-0.845653072593902,OBS_N
+Out Board Sensor Temperature,200,7.836778296255868,OBS_N
+In Board Sensor Temperature,200,5.364155913790853,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,200,-3.250952906754701,OBS_N
+Heater Dutycycle,200,-0.4531471686275881,OBS_N
+Search Coil Magnetometer's Temperature,200,-4.0339077024059495,OBS_N
+Solar Array's Angle,200,-0.3655626330109205,OBS_N
+High Gain Antenna Azimuth,200,8.858113581030963,OBS_N
+High Gain Antenna elevation,200,-10.880905016622965,OBS_N
+Radial Distance from Sun,210,-0.0669004432624784,OBS_N
+Electronic Box Temperature,210,1.0383643103441729,OBS_N
+Solar Wind Analyser temperature,210,-0.96284664085328,OBS_N
+Out Board Sensor Temperature,210,8.73845405965223,OBS_N
+In Board Sensor Temperature,210,-0.1600875155011213,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,210,-8.637039363715504,OBS_N
+Heater Dutycycle,210,0.2444140037277413,OBS_N
+Search Coil Magnetometer's Temperature,210,1.2389136150636724,OBS_N
+Solar Array's Angle,210,5.807308805075193,OBS_N
+High Gain Antenna Azimuth,210,7.068134166643925,OBS_N
+High Gain Antenna elevation,210,-21.843697232992,OBS_N
+Radial Distance from Sun,220,-0.0619692156777743,OBS_N
+Electronic Box Temperature,220,-11.092388369860508,OBS_N
+Solar Wind Analyser temperature,220,0.0074125333562339,OBS_N
+Out Board Sensor Temperature,220,15.930251838870609,OBS_N
+In Board Sensor Temperature,220,-22.776416415287407,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,220,19.808374460882007,OBS_N
+Heater Dutycycle,220,0.1490477712645907,OBS_N
+Search Coil Magnetometer's Temperature,220,1.388465461103518,OBS_N
+Solar Array's Angle,220,-21.181791578465447,OBS_N
+High Gain Antenna Azimuth,220,16.377083185585516,OBS_N
+High Gain Antenna elevation,220,-29.236348008747488,OBS_N
+Radial Distance from Sun,230,-0.0481466334374348,OBS_N
+Electronic Box Temperature,230,-8.43986273580601,OBS_N
+Solar Wind Analyser temperature,230,0.1321838300610918,OBS_N
+Out Board Sensor Temperature,230,20.18413306894914,OBS_N
+In Board Sensor Temperature,230,-10.031340006198043,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,230,9.091625181371676,OBS_N
+Heater Dutycycle,230,-1.5652548473081846,OBS_N
+Search Coil Magnetometer's Temperature,230,2.156345242132133,OBS_N
+Solar Array's Angle,230,-24.93278513903611,OBS_N
+High Gain Antenna Azimuth,230,19.70921337598597,OBS_N
+High Gain Antenna elevation,230,-26.762059899399254,OBS_N
+Radial Distance from Sun,240,-0.0475633439530748,OBS_N
+Electronic Box Temperature,240,-21.665711829413635,OBS_N
+Solar Wind Analyser temperature,240,-0.7078452922837106,OBS_N
+Out Board Sensor Temperature,240,20.925557917026136,OBS_N
+In Board Sensor Temperature,240,-3.632715421982741,OBS_N
+Out Board Sensor minus In Board Sensor Temp.,240,3.727628910315379,OBS_N
+Heater Dutycycle,240,-0.8736430100355331,OBS_N
+Search Coil Magnetometer's Temperature,240,1.7318986847812257,OBS_N
+Solar Array's Angle,240,-43.98284931128875,OBS_N
+High Gain Antenna Azimuth,240,-5.86220713934579,OBS_N
+High Gain Antenna elevation,240,-29.36764568629342,OBS_N
+Radial Distance from Sun,10,-0.0887326230013947,OBS_R
+Electronic Box Temperature,10,-4.295462728273296,OBS_R
+Solar Wind Analyser temperature,10,1.0256061034333122,OBS_R
+Out Board Sensor Temperature,10,7.208223061822521,OBS_R
+In Board Sensor Temperature,10,-18.80145525949941,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,10,22.94449931085195,OBS_R
+Heater Dutycycle,10,-0.584653102695181,OBS_R
+Search Coil Magnetometer's Temperature,10,0.6135375135206536,OBS_R
+Solar Array's Angle,10,-33.32803543128948,OBS_R
+High Gain Antenna Azimuth,10,7.173916637776977,OBS_R
+High Gain Antenna elevation,10,30.73590759712155,OBS_R
+Radial Distance from Sun,20,-0.0652235677201245,OBS_R
+Electronic Box Temperature,20,-2.119671705430485,OBS_R
+Solar Wind Analyser temperature,20,3.66925555430077,OBS_R
+Out Board Sensor Temperature,20,13.091359123778838,OBS_R
+In Board Sensor Temperature,20,-12.217082307393309,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,20,28.22466499130949,OBS_R
+Heater Dutycycle,20,-0.3661103684198943,OBS_R
+Search Coil Magnetometer's Temperature,20,1.0396222890702354,OBS_R
+Solar Array's Angle,20,7.501441494759761,OBS_R
+High Gain Antenna Azimuth,20,20.355679495467754,OBS_R
+High Gain Antenna elevation,20,27.311678115113764,OBS_R
+Radial Distance from Sun,30,-0.0329863863145658,OBS_R
+Electronic Box Temperature,30,-0.0464144591717915,OBS_R
+Solar Wind Analyser temperature,30,2.393548573450349,OBS_R
+Out Board Sensor Temperature,30,5.9548525437718425,OBS_R
+In Board Sensor Temperature,30,-48.66235823239693,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,30,29.863966234547675,OBS_R
+Heater Dutycycle,30,-0.7485899373907738,OBS_R
+Search Coil Magnetometer's Temperature,30,2.34696923290954,OBS_R
+Solar Array's Angle,30,3.5859781027351896,OBS_R
+High Gain Antenna Azimuth,30,13.131451063073683,OBS_R
+High Gain Antenna elevation,30,18.016094448290307,OBS_R
+Radial Distance from Sun,40,-0.0666825406781906,OBS_R
+Electronic Box Temperature,40,-14.782446632451594,OBS_R
+Solar Wind Analyser temperature,40,-1.1380827671775946,OBS_R
+Out Board Sensor Temperature,40,-3.0021574890216844,OBS_R
+In Board Sensor Temperature,40,-1.7646957163601429,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,40,24.569204040506403,OBS_R
+Heater Dutycycle,40,-0.5574367141465761,OBS_R
+Search Coil Magnetometer's Temperature,40,1.7817712459354151,OBS_R
+Solar Array's Angle,40,3.502026446957192,OBS_R
+High Gain Antenna Azimuth,40,21.157301205505075,OBS_R
+High Gain Antenna elevation,40,14.877302977778864,OBS_R
+Radial Distance from Sun,50,-0.0812187096743533,OBS_R
+Electronic Box Temperature,50,-3.849805950944301,OBS_R
+Solar Wind Analyser temperature,50,1.4482185394526688,OBS_R
+Out Board Sensor Temperature,50,11.995718973519196,OBS_R
+In Board Sensor Temperature,50,-7.780828060677591,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,50,17.51768752278699,OBS_R
+Heater Dutycycle,50,0.26847702074845,OBS_R
+Search Coil Magnetometer's Temperature,50,-0.85088252053747,OBS_R
+Solar Array's Angle,50,35.510309828100375,OBS_R
+High Gain Antenna Azimuth,50,15.52950593747934,OBS_R
+High Gain Antenna elevation,50,32.842763845686044,OBS_R
+Radial Distance from Sun,60,-0.1032485403050963,OBS_R
+Electronic Box Temperature,60,-4.322729922948644,OBS_R
+Solar Wind Analyser temperature,60,3.7729512120443673,OBS_R
+Out Board Sensor Temperature,60,17.640722731572232,OBS_R
+In Board Sensor Temperature,60,15.82986337811358,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,60,17.76551857223327,OBS_R
+Heater Dutycycle,60,-0.9256820776098976,OBS_R
+Search Coil Magnetometer's Temperature,60,0.9563536898885858,OBS_R
+Solar Array's Angle,60,-18.985423046852205,OBS_R
+High Gain Antenna Azimuth,60,9.852481064058848,OBS_R
+High Gain Antenna elevation,60,20.350778618618907,OBS_R
+Radial Distance from Sun,70,-0.0618780414911948,OBS_R
+Electronic Box Temperature,70,-10.21941942382464,OBS_R
+Solar Wind Analyser temperature,70,-2.416420559707741,OBS_R
+Out Board Sensor Temperature,70,7.382176964091869,OBS_R
+In Board Sensor Temperature,70,-4.529325883157982,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,70,-4.8560181505105815,OBS_R
+Heater Dutycycle,70,-0.0972436359769951,OBS_R
+Search Coil Magnetometer's Temperature,70,-0.2494150203902337,OBS_R
+Solar Array's Angle,70,-21.386012023795168,OBS_R
+High Gain Antenna Azimuth,70,12.570733464173186,OBS_R
+High Gain Antenna elevation,70,20.17078393706253,OBS_R
+Radial Distance from Sun,80,-0.000465494017632,OBS_R
+Electronic Box Temperature,80,1.7815605809068915,OBS_R
+Solar Wind Analyser temperature,80,0.4619243218879369,OBS_R
+Out Board Sensor Temperature,80,2.6979301256371806,OBS_R
+In Board Sensor Temperature,80,15.266826807172508,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,80,6.246711018686633,OBS_R
+Heater Dutycycle,80,-0.1243397114452473,OBS_R
+Search Coil Magnetometer's Temperature,80,-1.6904950118469273,OBS_R
+Solar Array's Angle,80,9.542199213740354,OBS_R
+High Gain Antenna Azimuth,80,20.01747313557435,OBS_R
+High Gain Antenna elevation,80,31.897481868185128,OBS_R
+Radial Distance from Sun,90,0.0573016110623337,OBS_R
+Electronic Box Temperature,90,-3.827760542610462,OBS_R
+Solar Wind Analyser temperature,90,-1.346383492514437,OBS_R
+Out Board Sensor Temperature,90,2.698905960537861,OBS_R
+In Board Sensor Temperature,90,3.287951143309962,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,90,2.889052234778145,OBS_R
+Heater Dutycycle,90,-0.2223059454914117,OBS_R
+Search Coil Magnetometer's Temperature,90,-0.1935616790575547,OBS_R
+Solar Array's Angle,90,18.05980278810205,OBS_R
+High Gain Antenna Azimuth,90,8.871577394968012,OBS_R
+High Gain Antenna elevation,90,19.35434279973067,OBS_R
+Radial Distance from Sun,100,0.0716970149130364,OBS_R
+Electronic Box Temperature,100,-7.46799741615546,OBS_R
+Solar Wind Analyser temperature,100,2.336764577595878,OBS_R
+Out Board Sensor Temperature,100,5.257461138214754,OBS_R
+In Board Sensor Temperature,100,11.548505612668336,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,100,-0.4329881035198387,OBS_R
+Heater Dutycycle,100,-0.6602264901841144,OBS_R
+Search Coil Magnetometer's Temperature,100,-0.2395175769243573,OBS_R
+Solar Array's Angle,100,-9.200601938706654,OBS_R
+High Gain Antenna Azimuth,100,0.4845146636974182,OBS_R
+High Gain Antenna elevation,100,10.440433945866449,OBS_R
+Radial Distance from Sun,110,0.0706375614508227,OBS_R
+Electronic Box Temperature,110,-1.152293366861851,OBS_R
+Solar Wind Analyser temperature,110,1.9279307443811209,OBS_R
+Out Board Sensor Temperature,110,17.820297414020725,OBS_R
+In Board Sensor Temperature,110,-1.1924613422450785,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,110,6.96559628420389,OBS_R
+Heater Dutycycle,110,0.0022751214132256,OBS_R
+Search Coil Magnetometer's Temperature,110,-0.4743211559871798,OBS_R
+Solar Array's Angle,110,10.063166988466492,OBS_R
+High Gain Antenna Azimuth,110,11.231447305338262,OBS_R
+High Gain Antenna elevation,110,4.838724787211591,OBS_R
+Radial Distance from Sun,120,0.0695186803525505,OBS_R
+Electronic Box Temperature,120,-0.9515289464981528,OBS_R
+Solar Wind Analyser temperature,120,4.5070714071431,OBS_R
+Out Board Sensor Temperature,120,16.0843063184816,OBS_R
+In Board Sensor Temperature,120,4.937471720926502,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,120,-2.165072350032376,OBS_R
+Heater Dutycycle,120,0.290769438233711,OBS_R
+Search Coil Magnetometer's Temperature,120,-1.410526143609438,OBS_R
+Solar Array's Angle,120,22.349865137258853,OBS_R
+High Gain Antenna Azimuth,120,-2.366130915772703,OBS_R
+High Gain Antenna elevation,120,-2.515708742546575,OBS_R
+Radial Distance from Sun,130,0.0830130849246513,OBS_R
+Electronic Box Temperature,130,3.935322807394607,OBS_R
+Solar Wind Analyser temperature,130,2.149279980999653,OBS_R
+Out Board Sensor Temperature,130,2.0323703173293377,OBS_R
+In Board Sensor Temperature,130,16.780395203720342,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,130,-0.5097721592949231,OBS_R
+Heater Dutycycle,130,0.5925096684701949,OBS_R
+Search Coil Magnetometer's Temperature,130,-0.9760445298020536,OBS_R
+Solar Array's Angle,130,-7.699154457886085,OBS_R
+High Gain Antenna Azimuth,130,9.68941718260548,OBS_R
+High Gain Antenna elevation,130,25.15516911246242,OBS_R
+Radial Distance from Sun,140,0.0881686085423306,OBS_R
+Electronic Box Temperature,140,5.5974923859597645,OBS_R
+Solar Wind Analyser temperature,140,3.636386766480273,OBS_R
+Out Board Sensor Temperature,140,-5.224016486307718,OBS_R
+In Board Sensor Temperature,140,-2.356409383768096,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,140,3.550764072603459,OBS_R
+Heater Dutycycle,140,0.3837386096156349,OBS_R
+Search Coil Magnetometer's Temperature,140,2.682944751251814,OBS_R
+Solar Array's Angle,140,-1.1000937370697148,OBS_R
+High Gain Antenna Azimuth,140,5.750810193405609,OBS_R
+High Gain Antenna elevation,140,31.840235494072605,OBS_R
+Radial Distance from Sun,150,0.0859596211207541,OBS_R
+Electronic Box Temperature,150,3.190724367687972,OBS_R
+Solar Wind Analyser temperature,150,3.4881067590400296,OBS_R
+Out Board Sensor Temperature,150,-10.410662828836688,OBS_R
+In Board Sensor Temperature,150,-4.835026947767358,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,150,4.799721279413455,OBS_R
+Heater Dutycycle,150,0.0229755397575207,OBS_R
+Search Coil Magnetometer's Temperature,150,0.3096920596157435,OBS_R
+Solar Array's Angle,150,31.072747796078705,OBS_R
+High Gain Antenna Azimuth,150,10.446553672598863,OBS_R
+High Gain Antenna elevation,150,36.38313602482106,OBS_R
+Radial Distance from Sun,160,0.0858313007395037,OBS_R
+Electronic Box Temperature,160,-6.51338646300287,OBS_R
+Solar Wind Analyser temperature,160,3.308408679188104,OBS_R
+Out Board Sensor Temperature,160,-11.248160363538757,OBS_R
+In Board Sensor Temperature,160,-17.604940644782626,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,160,9.066617665587946,OBS_R
+Heater Dutycycle,160,0.2290845831603076,OBS_R
+Search Coil Magnetometer's Temperature,160,2.231666060505624,OBS_R
+Solar Array's Angle,160,8.226010358388812,OBS_R
+High Gain Antenna Azimuth,160,11.800837789672917,OBS_R
+High Gain Antenna elevation,160,40.240899712518775,OBS_R
+Radial Distance from Sun,170,0.0950472034417087,OBS_R
+Electronic Box Temperature,170,-1.685417716043783,OBS_R
+Solar Wind Analyser temperature,170,1.35551983343329,OBS_R
+Out Board Sensor Temperature,170,-19.215737093249427,OBS_R
+In Board Sensor Temperature,170,-16.801097304094327,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,170,39.6233495632493,OBS_R
+Heater Dutycycle,170,0.6051526171454304,OBS_R
+Search Coil Magnetometer's Temperature,170,7.865480022513554,OBS_R
+Solar Array's Angle,170,2.164711269393398,OBS_R
+High Gain Antenna Azimuth,170,14.350037463065547,OBS_R
+High Gain Antenna elevation,170,43.62621016539248,OBS_R
+Radial Distance from Sun,180,0.1029279872714801,OBS_R
+Electronic Box Temperature,180,12.571520800706974,OBS_R
+Solar Wind Analyser temperature,180,2.3772362637506284,OBS_R
+Out Board Sensor Temperature,180,-30.68240654605028,OBS_R
+In Board Sensor Temperature,180,-28.636767754765494,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,180,4.673416737298144,OBS_R
+Heater Dutycycle,180,0.3164197672378654,OBS_R
+Search Coil Magnetometer's Temperature,180,6.9067580954151575,OBS_R
+Solar Array's Angle,180,-29.582862224344357,OBS_R
+High Gain Antenna Azimuth,180,23.82216732517176,OBS_R
+High Gain Antenna elevation,180,39.31184664964659,OBS_R
+Radial Distance from Sun,190,0.0932399359704744,OBS_R
+Electronic Box Temperature,190,12.412938869475576,OBS_R
+Solar Wind Analyser temperature,190,0.5373973640836951,OBS_R
+Out Board Sensor Temperature,190,-21.680648931545253,OBS_R
+In Board Sensor Temperature,190,-30.24042204016306,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,190,31.58711564583198,OBS_R
+Heater Dutycycle,190,1.4756074815605438,OBS_R
+Search Coil Magnetometer's Temperature,190,2.9115374048130285,OBS_R
+Solar Array's Angle,190,-21.346711883789197,OBS_R
+High Gain Antenna Azimuth,190,23.83143022560266,OBS_R
+High Gain Antenna elevation,190,40.977296905334576,OBS_R
+Radial Distance from Sun,200,0.0975574836979262,OBS_R
+Electronic Box Temperature,200,4.63909080294961,OBS_R
+Solar Wind Analyser temperature,200,1.8159823734229927,OBS_R
+Out Board Sensor Temperature,200,-28.48752946710197,OBS_R
+In Board Sensor Temperature,200,1.0259768108425529,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,200,3.2891094869686697,OBS_R
+Heater Dutycycle,200,-0.0061738330926696,OBS_R
+Search Coil Magnetometer's Temperature,200,-2.416380254211831,OBS_R
+Solar Array's Angle,200,-29.59518248252967,OBS_R
+High Gain Antenna Azimuth,200,25.965843949603872,OBS_R
+High Gain Antenna elevation,200,41.01887992293853,OBS_R
+Radial Distance from Sun,210,0.089042874689358,OBS_R
+Electronic Box Temperature,210,8.616495321161405,OBS_R
+Solar Wind Analyser temperature,210,-0.3781123212351514,OBS_R
+Out Board Sensor Temperature,210,-21.582513713060568,OBS_R
+In Board Sensor Temperature,210,-0.2726214505574118,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,210,18.651385335879787,OBS_R
+Heater Dutycycle,210,0.8404279430348325,OBS_R
+Search Coil Magnetometer's Temperature,210,0.906788901508416,OBS_R
+Solar Array's Angle,210,-16.7281104680107,OBS_R
+High Gain Antenna Azimuth,210,7.781995397147595,OBS_R
+High Gain Antenna elevation,210,48.865244683887504,OBS_R
+Radial Distance from Sun,220,0.0802771444669153,OBS_R
+Electronic Box Temperature,220,9.503922835259978,OBS_R
+Solar Wind Analyser temperature,220,1.141234455756194,OBS_R
+Out Board Sensor Temperature,220,-20.44484275946087,OBS_R
+In Board Sensor Temperature,220,10.578845767637244,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,220,21.13056716770224,OBS_R
+Heater Dutycycle,220,0.3894393857626582,OBS_R
+Search Coil Magnetometer's Temperature,220,-1.1713992905235229,OBS_R
+Solar Array's Angle,220,0.0697437368146078,OBS_R
+High Gain Antenna Azimuth,220,2.428018244208449,OBS_R
+High Gain Antenna elevation,220,48.10014353085512,OBS_R
+Radial Distance from Sun,230,0.0803400446709678,OBS_R
+Electronic Box Temperature,230,16.50051973388927,OBS_R
+Solar Wind Analyser temperature,230,0.9061442540999978,OBS_R
+Out Board Sensor Temperature,230,-13.116342170450691,OBS_R
+In Board Sensor Temperature,230,29.389658455102527,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,230,13.28431997679957,OBS_R
+Heater Dutycycle,230,0.9068634012295418,OBS_R
+Search Coil Magnetometer's Temperature,230,-1.2806957670781207,OBS_R
+Solar Array's Angle,230,1.925176165829052,OBS_R
+High Gain Antenna Azimuth,230,-7.253515426260616,OBS_R
+High Gain Antenna elevation,230,44.73935932110879,OBS_R
+Radial Distance from Sun,240,0.0819864278142957,OBS_R
+Electronic Box Temperature,240,22.03588864496674,OBS_R
+Solar Wind Analyser temperature,240,-0.2314674593411001,OBS_R
+Out Board Sensor Temperature,240,-27.465140155510674,OBS_R
+In Board Sensor Temperature,240,31.215908695910127,OBS_R
+Out Board Sensor minus In Board Sensor Temp.,240,14.528193025162183,OBS_R
+Heater Dutycycle,240,0.6304273887510344,OBS_R
+Search Coil Magnetometer's Temperature,240,-0.0614791776449825,OBS_R
+Solar Array's Angle,240,26.78438435495554,OBS_R
+High Gain Antenna Azimuth,240,2.8817024837411727,OBS_R
+High Gain Antenna elevation,240,20.15721662902467,OBS_R
+Radial Distance from Sun,10,-0.1791631167161998,OBS_T
+Electronic Box Temperature,10,5.866994178559031,OBS_T
+Solar Wind Analyser temperature,10,-0.0481800755717912,OBS_T
+Out Board Sensor Temperature,10,-1.135448330922184,OBS_T
+In Board Sensor Temperature,10,-9.63552937506828,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,10,1.1243670317014949,OBS_T
+Heater Dutycycle,10,1.200332937852621,OBS_T
+Search Coil Magnetometer's Temperature,10,0.6682318183280449,OBS_T
+Solar Array's Angle,10,55.24160667466619,OBS_T
+High Gain Antenna Azimuth,10,-7.717465793748793,OBS_T
+High Gain Antenna elevation,10,-10.834382154324748,OBS_T
+Radial Distance from Sun,20,-0.1833039762062766,OBS_T
+Electronic Box Temperature,20,3.7401316983554462,OBS_T
+Solar Wind Analyser temperature,20,1.4842772279973615,OBS_T
+Out Board Sensor Temperature,20,9.773578376670145,OBS_T
+In Board Sensor Temperature,20,-2.7254272573415217,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,20,21.801337363501737,OBS_T
+Heater Dutycycle,20,0.2657389294178275,OBS_T
+Search Coil Magnetometer's Temperature,20,3.0786628131458027,OBS_T
+Solar Array's Angle,20,1.0928561956185163,OBS_T
+High Gain Antenna Azimuth,20,6.552585410379763,OBS_T
+High Gain Antenna elevation,20,4.756836602416811,OBS_T
+Radial Distance from Sun,30,-0.1101314377697846,OBS_T
+Electronic Box Temperature,30,-6.574387897580772,OBS_T
+Solar Wind Analyser temperature,30,2.3480379151278035,OBS_T
+Out Board Sensor Temperature,30,6.546335010318816,OBS_T
+In Board Sensor Temperature,30,-2.5437816235174577,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,30,3.8047862725567714,OBS_T
+Heater Dutycycle,30,-0.311941355178999,OBS_T
+Search Coil Magnetometer's Temperature,30,0.4351163310228675,OBS_T
+Solar Array's Angle,30,15.99484919205187,OBS_T
+High Gain Antenna Azimuth,30,3.679912599930295,OBS_T
+High Gain Antenna elevation,30,-9.596565818737531,OBS_T
+Radial Distance from Sun,40,-0.0854023008056655,OBS_T
+Electronic Box Temperature,40,-10.133515010663528,OBS_T
+Solar Wind Analyser temperature,40,2.7660797134211355,OBS_T
+Out Board Sensor Temperature,40,10.213076440429452,OBS_T
+In Board Sensor Temperature,40,-1.4337711943045153,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,40,2.293670318719882,OBS_T
+Heater Dutycycle,40,-0.5091766354054629,OBS_T
+Search Coil Magnetometer's Temperature,40,1.1802978890621374,OBS_T
+Solar Array's Angle,40,7.611260247133094,OBS_T
+High Gain Antenna Azimuth,40,10.036520202071124,OBS_T
+High Gain Antenna elevation,40,-9.332099871646625,OBS_T
+Radial Distance from Sun,50,-0.0896531879451999,OBS_T
+Electronic Box Temperature,50,-2.825629870024545,OBS_T
+Solar Wind Analyser temperature,50,1.0179428189604536,OBS_T
+Out Board Sensor Temperature,50,4.763459489965728,OBS_T
+In Board Sensor Temperature,50,-7.482423240233804,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,50,8.590383155127334,OBS_T
+Heater Dutycycle,50,-0.0702645391536613,OBS_T
+Search Coil Magnetometer's Temperature,50,0.9920501149288212,OBS_T
+Solar Array's Angle,50,27.64440776950118,OBS_T
+High Gain Antenna Azimuth,50,6.236205473178763,OBS_T
+High Gain Antenna elevation,50,-16.21259951549027,OBS_T
+Radial Distance from Sun,60,-0.0720259296853461,OBS_T
+Electronic Box Temperature,60,1.6877164554082191,OBS_T
+Solar Wind Analyser temperature,60,-0.8763419609544019,OBS_T
+Out Board Sensor Temperature,60,7.455314140932593,OBS_T
+In Board Sensor Temperature,60,0.7938244274286518,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,60,-3.708023938355069,OBS_T
+Heater Dutycycle,60,-0.47805279802753,OBS_T
+Search Coil Magnetometer's Temperature,60,-0.1295950361376831,OBS_T
+Solar Array's Angle,60,-2.2743652183161918,OBS_T
+High Gain Antenna Azimuth,60,9.494399197218872,OBS_T
+High Gain Antenna elevation,60,-14.678502122321426,OBS_T
+Radial Distance from Sun,70,-0.0555852912325306,OBS_T
+Electronic Box Temperature,70,-16.29371431912431,OBS_T
+Solar Wind Analyser temperature,70,-0.4930999198224403,OBS_T
+Out Board Sensor Temperature,70,15.1977547596711,OBS_T
+In Board Sensor Temperature,70,-9.880285867302824,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,70,-5.745657712520502,OBS_T
+Heater Dutycycle,70,-1.2077242108090438,OBS_T
+Search Coil Magnetometer's Temperature,70,-1.245210716179606,OBS_T
+Solar Array's Angle,70,3.776936495436504,OBS_T
+High Gain Antenna Azimuth,70,5.667660792143901,OBS_T
+High Gain Antenna elevation,70,-31.11512608174136,OBS_T
+Radial Distance from Sun,80,-0.0596868762957886,OBS_T
+Electronic Box Temperature,80,-4.663453237958151,OBS_T
+Solar Wind Analyser temperature,80,-0.8525618005410697,OBS_T
+Out Board Sensor Temperature,80,13.845399558657686,OBS_T
+In Board Sensor Temperature,80,7.937611597354439,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,80,-15.596202350712394,OBS_T
+Heater Dutycycle,80,-1.5170549068630566,OBS_T
+Search Coil Magnetometer's Temperature,80,-1.3818561316305458,OBS_T
+Solar Array's Angle,80,4.4755105677714,OBS_T
+High Gain Antenna Azimuth,80,3.452547940248241,OBS_T
+High Gain Antenna elevation,80,-25.598732132959235,OBS_T
+Radial Distance from Sun,90,-0.0494427828668294,OBS_T
+Electronic Box Temperature,90,-1.430226034281381,OBS_T
+Solar Wind Analyser temperature,90,-0.4745439426160585,OBS_T
+Out Board Sensor Temperature,90,6.7607856663634704,OBS_T
+In Board Sensor Temperature,90,-7.024374115656192,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,90,-12.34076636688487,OBS_T
+Heater Dutycycle,90,-1.0110780726173456,OBS_T
+Search Coil Magnetometer's Temperature,90,-1.7060181012932347,OBS_T
+Solar Array's Angle,90,5.433497322778539,OBS_T
+High Gain Antenna Azimuth,90,3.062882720128405,OBS_T
+High Gain Antenna elevation,90,-29.301907615805163,OBS_T
+Radial Distance from Sun,100,-0.0585234295546569,OBS_T
+Electronic Box Temperature,100,0.6904481003150807,OBS_T
+Solar Wind Analyser temperature,100,-0.5166311616501368,OBS_T
+Out Board Sensor Temperature,100,6.2740883789779245,OBS_T
+In Board Sensor Temperature,100,0.3561935279504121,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,100,-3.392634114105986,OBS_T
+Heater Dutycycle,100,-0.5658283939951332,OBS_T
+Search Coil Magnetometer's Temperature,100,-0.7128299122538571,OBS_T
+Solar Array's Angle,100,29.64790505804002,OBS_T
+High Gain Antenna Azimuth,100,5.535010204300033,OBS_T
+High Gain Antenna elevation,100,-20.70077752813568,OBS_T
+Radial Distance from Sun,110,-0.0570975627979437,OBS_T
+Electronic Box Temperature,110,-1.3831150115290125,OBS_T
+Solar Wind Analyser temperature,110,-0.7380767685815953,OBS_T
+Out Board Sensor Temperature,110,12.192178200910751,OBS_T
+In Board Sensor Temperature,110,13.89659517197246,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,110,-4.569149862976965,OBS_T
+Heater Dutycycle,110,-1.2226959925714371,OBS_T
+Search Coil Magnetometer's Temperature,110,-0.0111446818278449,OBS_T
+Solar Array's Angle,110,16.365622135053524,OBS_T
+High Gain Antenna Azimuth,110,-0.2952180037354902,OBS_T
+High Gain Antenna elevation,110,-11.088731321716953,OBS_T
+Radial Distance from Sun,120,-0.0723719136907928,OBS_T
+Electronic Box Temperature,120,1.7037492683028317,OBS_T
+Solar Wind Analyser temperature,120,1.5621629703508837,OBS_T
+Out Board Sensor Temperature,120,15.97111075095071,OBS_T
+In Board Sensor Temperature,120,4.890772471654932,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,120,-1.876081023406644,OBS_T
+Heater Dutycycle,120,-0.5784354978857117,OBS_T
+Search Coil Magnetometer's Temperature,120,0.7733825299947373,OBS_T
+Solar Array's Angle,120,10.186515286901852,OBS_T
+High Gain Antenna Azimuth,120,-3.919577686933589,OBS_T
+High Gain Antenna elevation,120,-11.34920174632881,OBS_T
+Radial Distance from Sun,130,-0.0665276871611575,OBS_T
+Electronic Box Temperature,130,-13.095295654060818,OBS_T
+Solar Wind Analyser temperature,130,0.0613622680719413,OBS_T
+Out Board Sensor Temperature,130,15.745560041084786,OBS_T
+In Board Sensor Temperature,130,8.397046845105674,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,130,-9.290085079648328,OBS_T
+Heater Dutycycle,130,-0.6107708095468876,OBS_T
+Search Coil Magnetometer's Temperature,130,-1.6674797390455736,OBS_T
+Solar Array's Angle,130,16.912195838071327,OBS_T
+High Gain Antenna Azimuth,130,-8.83362715784235,OBS_T
+High Gain Antenna elevation,130,-21.5124950133836,OBS_T
+Radial Distance from Sun,140,-0.0613315827079174,OBS_T
+Electronic Box Temperature,140,-10.849121968890918,OBS_T
+Solar Wind Analyser temperature,140,-0.2420137620957854,OBS_T
+Out Board Sensor Temperature,140,14.953766208310135,OBS_T
+In Board Sensor Temperature,140,17.154455795428383,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,140,-23.775890842216217,OBS_T
+Heater Dutycycle,140,-0.9142965149262722,OBS_T
+Search Coil Magnetometer's Temperature,140,-5.297435494379685,OBS_T
+Solar Array's Angle,140,19.778072596798346,OBS_T
+High Gain Antenna Azimuth,140,-11.518537810364611,OBS_T
+High Gain Antenna elevation,140,-38.83349171684851,OBS_T
+Radial Distance from Sun,150,-0.0513889926657454,OBS_T
+Electronic Box Temperature,150,-8.712520293813974,OBS_T
+Solar Wind Analyser temperature,150,1.5996372056299553,OBS_T
+Out Board Sensor Temperature,150,22.02904284785417,OBS_T
+In Board Sensor Temperature,150,30.362446714135363,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,150,-15.418181111966987,OBS_T
+Heater Dutycycle,150,-0.9470117224595608,OBS_T
+Search Coil Magnetometer's Temperature,150,-1.8690856786206111,OBS_T
+Solar Array's Angle,150,30.204764168841077,OBS_T
+High Gain Antenna Azimuth,150,-6.642269913990424,OBS_T
+High Gain Antenna elevation,150,-23.465050092473835,OBS_T
+Radial Distance from Sun,160,-0.0451862608986181,OBS_T
+Electronic Box Temperature,160,-4.33973523046267,OBS_T
+Solar Wind Analyser temperature,160,-1.5802002827070087,OBS_T
+Out Board Sensor Temperature,160,19.366104998825843,OBS_T
+In Board Sensor Temperature,160,40.20768384863534,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,160,-25.74980672614412,OBS_T
+Heater Dutycycle,160,-0.2946880979905187,OBS_T
+Search Coil Magnetometer's Temperature,160,-3.527058078569735,OBS_T
+Solar Array's Angle,160,8.704498561269691,OBS_T
+High Gain Antenna Azimuth,160,-13.390640423232856,OBS_T
+High Gain Antenna elevation,160,-11.784255122044716,OBS_T
+Radial Distance from Sun,170,-0.0458584320317792,OBS_T
+Electronic Box Temperature,170,-8.457703888360781,OBS_T
+Solar Wind Analyser temperature,170,2.1072987951159106,OBS_T
+Out Board Sensor Temperature,170,22.57283979228887,OBS_T
+In Board Sensor Temperature,170,37.31242276658261,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,170,-11.899012766174623,OBS_T
+Heater Dutycycle,170,-1.635741270936764,OBS_T
+Search Coil Magnetometer's Temperature,170,-3.2114110135293363,OBS_T
+Solar Array's Angle,170,23.27221521266816,OBS_T
+High Gain Antenna Azimuth,170,7.361799838559598,OBS_T
+High Gain Antenna elevation,170,-18.26777846463336,OBS_T
+Radial Distance from Sun,180,-0.0515526444814758,OBS_T
+Electronic Box Temperature,180,-3.6418323629154696,OBS_T
+Solar Wind Analyser temperature,180,1.405417232525957,OBS_T
+Out Board Sensor Temperature,180,19.80998515530932,OBS_T
+In Board Sensor Temperature,180,28.710965574676973,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,180,-21.37665967983789,OBS_T
+Heater Dutycycle,180,-0.9037558027246037,OBS_T
+Search Coil Magnetometer's Temperature,180,-0.9899984937877327,OBS_T
+Solar Array's Angle,180,9.396146344726388,OBS_T
+High Gain Antenna Azimuth,180,2.531418389472115,OBS_T
+High Gain Antenna elevation,180,-23.76719462599256,OBS_T
+Radial Distance from Sun,190,-0.0591631969850966,OBS_T
+Electronic Box Temperature,190,3.4092991959811374,OBS_T
+Solar Wind Analyser temperature,190,4.576130770378698,OBS_T
+Out Board Sensor Temperature,190,18.68533528342101,OBS_T
+In Board Sensor Temperature,190,36.59170485723806,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,190,-6.678335025359769,OBS_T
+Heater Dutycycle,190,-1.436806410571435,OBS_T
+Search Coil Magnetometer's Temperature,190,-5.86416144219824,OBS_T
+Solar Array's Angle,190,38.00197454880852,OBS_T
+High Gain Antenna Azimuth,190,-11.72177652602108,OBS_T
+High Gain Antenna elevation,190,-5.817092640966212,OBS_T
+Radial Distance from Sun,200,-0.0495775569328887,OBS_T
+Electronic Box Temperature,200,-6.884601887072207,OBS_T
+Solar Wind Analyser temperature,200,0.4425868661931302,OBS_T
+Out Board Sensor Temperature,200,13.978970892766398,OBS_T
+In Board Sensor Temperature,200,24.726050304336997,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,200,-14.26850883197629,OBS_T
+Heater Dutycycle,200,-0.4860723253333869,OBS_T
+Search Coil Magnetometer's Temperature,200,-2.359955535400732,OBS_T
+Solar Array's Angle,200,27.180902216337365,OBS_T
+High Gain Antenna Azimuth,200,-10.163630521362863,OBS_T
+High Gain Antenna elevation,200,-20.85970008934315,OBS_T
+Radial Distance from Sun,210,-0.0372966122530192,OBS_T
+Electronic Box Temperature,210,11.337174934345096,OBS_T
+Solar Wind Analyser temperature,210,-0.7740527817344772,OBS_T
+Out Board Sensor Temperature,210,15.9207822156778,OBS_T
+In Board Sensor Temperature,210,25.04827649725972,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,210,-13.819513966156496,OBS_T
+Heater Dutycycle,210,-1.346864118189636,OBS_T
+Search Coil Magnetometer's Temperature,210,-4.002825135890712,OBS_T
+Solar Array's Angle,210,-1.0297577218132707,OBS_T
+High Gain Antenna Azimuth,210,1.2841285502027586,OBS_T
+High Gain Antenna elevation,210,-13.472784718365824,OBS_T
+Radial Distance from Sun,220,-0.0415845793005693,OBS_T
+Electronic Box Temperature,220,-7.287445489038729,OBS_T
+Solar Wind Analyser temperature,220,-1.0876517322481258,OBS_T
+Out Board Sensor Temperature,220,25.553168849533392,OBS_T
+In Board Sensor Temperature,220,29.855386730148997,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,220,6.201817922884864,OBS_T
+Heater Dutycycle,220,-1.235345389855527,OBS_T
+Search Coil Magnetometer's Temperature,220,-4.105046517106324,OBS_T
+Solar Array's Angle,220,22.377284554550133,OBS_T
+High Gain Antenna Azimuth,220,-11.763122563645435,OBS_T
+High Gain Antenna elevation,220,-3.737519088297191,OBS_T
+Radial Distance from Sun,230,-0.0560857718842129,OBS_T
+Electronic Box Temperature,230,-6.685970713795928,OBS_T
+Solar Wind Analyser temperature,230,-1.007455859901676,OBS_T
+Out Board Sensor Temperature,230,30.10694004715648,OBS_T
+In Board Sensor Temperature,230,32.68387138833245,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,230,-8.699997948782395,OBS_T
+Heater Dutycycle,230,-0.8999667470286901,OBS_T
+Search Coil Magnetometer's Temperature,230,-5.580159162811561,OBS_T
+Solar Array's Angle,230,42.17619948106727,OBS_T
+High Gain Antenna Azimuth,230,-5.059183008783002,OBS_T
+High Gain Antenna elevation,230,-30.896584421666063,OBS_T
+Radial Distance from Sun,240,-0.075268319772302,OBS_T
+Electronic Box Temperature,240,-19.642678192134564,OBS_T
+Solar Wind Analyser temperature,240,-2.7746042911887923,OBS_T
+Out Board Sensor Temperature,240,34.77176507744103,OBS_T
+In Board Sensor Temperature,240,29.568641968725192,OBS_T
+Out Board Sensor minus In Board Sensor Temp.,240,-19.70901512161342,OBS_T
+Heater Dutycycle,240,-0.7238225073931116,OBS_T
+Search Coil Magnetometer's Temperature,240,-1.780674747357134,OBS_T
+Solar Array's Angle,240,31.09222567788065,OBS_T
+High Gain Antenna Azimuth,240,-15.68001020895875,OBS_T
+High Gain Antenna elevation,240,-35.50075657052245,OBS_T

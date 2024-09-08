@@ -4,7 +4,7 @@ import plotly.express as px
 import pandas as pd
 
 # Load the combined DataFrame
-df = pd.read_csv('bad_datas_ate_240.csv')
+df = pd.read_csv('ate-180.csv')
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
@@ -16,7 +16,7 @@ def prepare_data(df, type_label):
     df_filtered = df[df['Type'] == type_label]
     # Create pivot table
     pivot_df = df_filtered.pivot_table(
-        values='ATE', index='Duration', columns='Feature', aggfunc='sum')
+        values='Normalized_ATE', index='Duration', columns='Feature', aggfunc='sum')
     # Filter out columns where all values are zero
     pivot_df = pivot_df.loc[:, (pivot_df != 0).any(axis=0)]
     return pivot_df
@@ -52,7 +52,7 @@ def get_custom_title(type_label):
     return f'{label_type} along {direction}'
 
 # Create figures with custom titles
-figures = [create_figure(prepare_data(df, type_label), f'ATE for : {get_custom_title(type_label)}') for type_label in types]
+figures = [create_figure(prepare_data(df, type_label), f'Normalized Average Treatment Effect of Heater Profiles for : {get_custom_title(type_label)} on Perihelion Dates') for type_label in types]
 
 # Define the layout of the app to include a graph for each type
 app.layout = html.Div([dcc.Graph(figure=fig) for fig in figures])

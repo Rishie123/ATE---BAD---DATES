@@ -17,6 +17,8 @@ def prepare_data(df, type_label):
     # Create pivot table
     pivot_df = df_filtered.pivot_table(
         values='Normalized_ATE', index='Duration', columns='Feature', aggfunc='sum')
+    # Sort the pivot_df by the Duration index in ascending order
+    pivot_df = pivot_df.sort_index(ascending=True)
     # Filter out columns where all values are zero
     pivot_df = pivot_df.loc[:, (pivot_df != 0).any(axis=0)]
     return pivot_df
@@ -33,6 +35,8 @@ def create_figure(data, title):
         yaxis={'tickfont': {'size': 14}}
     )
     return fig
+
+# Define the types to include in the dashboard
 types = ['IBS_R', 'IBS_N', 'IBS_T', 'OBS_R', 'OBS_N', 'OBS_T']
 
 # Define a function to map types to more descriptive titles
@@ -52,10 +56,9 @@ def get_custom_title(type_label):
     return f'{label_type} along {direction}'
 
 # Create figures with custom titles
-figures = [create_figure(prepare_data(df, type_label), f'Normalized Average Treatment Effect of Heater Profiles for : {get_custom_title(type_label)} on Perihelion Dates') for type_label in types]
-
-# Define the layout of the app to include a graph for each type
-app.layout = html.Div([dcc.Graph(figure=fig) for fig in figures])
+figures = [create_figure(prepare_data(df, type_label), 
+                         f'Normalized Average Treatment Effect of Heater Profiles for : {get_custom_title(type_label)} on Perihelion Dates') 
+                         for type_label in types]
 
 # Define the layout of the app to include a graph for each type
 app.layout = html.Div([dcc.Graph(figure=fig) for fig in figures])

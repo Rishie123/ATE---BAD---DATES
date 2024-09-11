@@ -21,6 +21,8 @@ def prepare_data(df, type_label):
     pivot_df = pivot_df.sort_index(ascending=True)
     # Filter out columns where all values are zero
     pivot_df = pivot_df.loc[:, (pivot_df != 0).any(axis=0)]
+    # Sort columns by the total sum of Normalized_ATE values across all durations
+    pivot_df = pivot_df.reindex(pivot_df.sum().sort_values(ascending=False).index, axis=1)
     return pivot_df
 
 # Create Plotly Express graphs for each type
